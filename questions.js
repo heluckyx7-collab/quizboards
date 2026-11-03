@@ -1019,5 +1019,175 @@ window.QUIZ_QUESTIONS = [
     "answer": 2,
     "explanation": "ग्रीष्मकालीन ओलंपिक सामान्यतः हर चार वर्ष में होते हैं।",
     "language": "hi"
+  },
+  {
+    "id": "qb061",
+    "board": "All India",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Chemical Reactions",
+    "question": "What type of change occurs when iron rusts?",
+    "options": [
+      "Physical change",
+      "Chemical change",
+      "Temporary change",
+      "No change"
+    ],
+    "answer": 1,
+    "explanation": "Rusting forms a new substance called iron oxide, so it is a chemical change.",
+    "language": "en"
+  },
+  {
+    "id": "qb062",
+    "board": "All India",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "Which substance turns blue litmus paper red?",
+    "options": [
+      "Acid",
+      "Base",
+      "Salt",
+      "Water"
+    ],
+    "answer": 0,
+    "explanation": "Acids turn blue litmus paper red.",
+    "language": "en"
+  },
+  {
+    "id": "qb063",
+    "board": "All India",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Metals and Non-metals",
+    "question": "Which metal is liquid at room temperature?",
+    "options": [
+      "Iron",
+      "Copper",
+      "Aluminium",
+      "Mercury"
+    ],
+    "answer": 3,
+    "explanation": "Mercury is a metal that is liquid at ordinary room temperature.",
+    "language": "en"
+  },
+  {
+    "id": "qb064",
+    "board": "All India",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Life Processes",
+    "question": "Where does most digestion of food take place in humans?",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Mouth"
+    ],
+    "answer": 1,
+    "explanation": "Most digestion is completed in the small intestine, where nutrients are also absorbed.",
+    "language": "en"
+  },
+  {
+    "id": "qb065",
+    "board": "All India",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Control and Coordination",
+    "question": "Which organ is the main control centre of the human body?",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Brain",
+      "Kidneys"
+    ],
+    "answer": 2,
+    "explanation": "The brain controls and coordinates many activities of the body.",
+    "language": "en"
+  },
+  {
+    "id": "qb066",
+    "board": "All India",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "How do Organisms Reproduce",
+    "question": "Where does fertilisation usually occur in humans?",
+    "options": [
+      "Oviduct (fallopian tube)",
+      "Uterus",
+      "Ovary",
+      "Vagina"
+    ],
+    "answer": 0,
+    "explanation": "In humans, fertilisation usually takes place in the oviduct.",
+    "language": "en"
+  },
+  {
+    "id": "qb067",
+    "board": "All India",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "What kind of image is formed by a plane mirror?",
+    "options": [
+      "Real",
+      "Inverted",
+      "Diminished",
+      "Virtual and erect"
+    ],
+    "answer": 3,
+    "explanation": "A plane mirror forms a virtual, erect image of the same size as the object.",
+    "language": "en"
+  },
+  {
+    "id": "qb068",
+    "board": "All India",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Human Eye",
+    "question": "Which lens is used to correct myopia (short-sightedness)?",
+    "options": [
+      "Convex lens",
+      "Concave lens",
+      "Cylindrical lens",
+      "Plane glass"
+    ],
+    "answer": 1,
+    "explanation": "A concave lens is used to correct myopia.",
+    "language": "en"
+  },
+  {
+    "id": "qb069",
+    "board": "All India",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Electricity",
+    "question": "What is the SI unit of electric current?",
+    "options": [
+      "Volt",
+      "Ohm",
+      "Ampere",
+      "Watt"
+    ],
+    "answer": 2,
+    "explanation": "The SI unit of electric current is the ampere.",
+    "language": "en"
+  },
+  {
+    "id": "qb070",
+    "board": "All India",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Our Environment",
+    "question": "What is the primary source of energy for most food chains?",
+    "options": [
+      "The Sun",
+      "Soil",
+      "Water",
+      "Air"
+    ],
+    "answer": 0,
+    "explanation": "Sunlight is the primary energy source for most ecosystems.",
+    "language": "en"
   }
 ];
