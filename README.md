@@ -1,1 +1,17 @@
-# Quizboard.in\n\nFree, responsive MCQ practice website.\n\n## Files\n- index.html — page structure\n- style.css — responsive styling\n- app.js — quiz logic, scoring, explanations and question rotation\n- questions.js — 500 starter MCQ records\n\n## Run\nOpen index.html in a browser or publish the repository with GitHub Pages.\n\n## Important content note\nThe included 500 records are starter/demo data generated from a small seed set. They are not 500 distinct syllabus-verified questions. Replace/expand them with reviewed, board-specific question banks before public launch.\n\nAds are placeholders only; connect an ad network only after obtaining its approval. Support: heluckyx7@gmail.com\n
+# QuizBoard
+
+QuizBoard is a lightweight, mobile-friendly free MCQ practice website.
+
+## Files
+- `index.html` — page and quiz controls
+- `style.css` — responsive styling
+- `app.js` — 10-question quiz, answer feedback, scoring and rotation
+- `questions.js` — starter question data
+
+## Publish
+Enable GitHub Pages in the repository settings and select the `main` branch and `/(root)`.
+
+## Content status
+The current bank contains 500 records, but many are repeated copies of a small starter set. It is demo content, not 500 unique or syllabus-verified questions. Replace it with reviewed board-specific material before relying on it for exam preparation.
+
+Ad space is only a placeholder; no advertising network is connected. Support: heluckyx7@gmail.com
