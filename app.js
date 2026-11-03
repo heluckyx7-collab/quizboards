@@ -40,17 +40,21 @@ document.addEventListener("DOMContentLoaded", () => {
       return;
     }
 
-    const seen = getSeen();
-    const unseen = pool.filter(q => !seen.includes(q.id));
-    if (unseen.length < SIZE) {
+    let seen = getSeen();
+    let unseen = pool.filter(q => !seen.includes(q.id));
+
+    // Start a fresh round only after every question in this selection has appeared.
+    if (unseen.length === 0) {
+      const poolIds = new Set(pool.map(q => q.id));
+      seen = seen.filter(id => !poolIds.has(id));
+      localStorage.setItem(SEEN_KEY, JSON.stringify(seen));
+      unseen = [...pool];
       $("status").textContent = language === "en"
-        ? "You have completed all available questions in this selection. Choose All Subjects or another subject for a fresh quiz."
-        : "इस चयन के सभी नए प्रश्न पूरे हो चुके हैं। नया Quiz पाने के लिए All Subjects या दूसरा विषय चुनें।";
-      $("quiz").hidden = true;
-      $("result").hidden = false;
-      return;
+        ? "Great! You completed this question set. A fresh round has started."
+        : "बहुत अच्छा! इस चयन के सभी प्रश्न पूरे हुए। अब नया राउंड शुरू हो रहा है।";
     }
 
+    // The final round may contain fewer than 10 questions; do not repeat early.
     quiz = shuffle(unseen).slice(0, SIZE);
     localStorage.setItem(SEEN_KEY, JSON.stringify([...seen, ...quiz.map(q => q.id)]));
     answers = {};
@@ -58,7 +62,7 @@ document.addEventListener("DOMContentLoaded", () => {
     $("result").hidden = true;
     $("finish").disabled = false;
     $("quiz").hidden = false;
-    $("progress").textContent = "10 Questions";
+    $("progress").textContent = quiz.length + " Questions";
     $("score-live").textContent = "अंक: 0";
     $("status").textContent = "";
     renderQuestions();
@@ -117,7 +121,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const title = document.createElement("h2");
     title.textContent = "Quiz पूरा हुआ!";
     const line = document.createElement("p");
-    line.textContent = "आपका स्कोर: " + score + " / " + SIZE;
+    line.textContent = "आपका स्कोर: " + score + " / " + quiz.length;
     const again = document.createElement("button");
     again.type = "button";
     again.textContent = "नया Quiz शुरू करें";
