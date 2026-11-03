@@ -22,20 +22,23 @@ document.addEventListener("DOMContentLoaded", () => {
   function startQuiz() {
     $("status").textContent = "";
     const board = $("board").value;
+    const language = $("language").value;
     const cls = $("class").value;
     const subject = $("subject").value;
 
     let pool = bank.filter(q =>
       (subject === "All" || q.subject === subject) &&
+      (q.language || "hi") === language &&
       (board === "All" || q.board === board || q.board === "All India") &&
       (cls === "All" || q.class === cls)
     );
     let note = "";
-    if (pool.length < SIZE && subject !== "All") {
-      pool = bank.filter(q => q.subject === subject);
-      note = "चुने हुए बोर्ड/कक्षा में 10 प्रश्न नहीं थे; उसी विषय के उपलब्ध प्रश्न लिए गए हैं।";
-    } else if (pool.length < SIZE && subject === "All") {
-      pool = bank;
+    if (pool.length < SIZE) {
+      $("status").textContent = language === "en"
+        ? "इस विषय और English भाषा में अभी 10 प्रश्न उपलब्ध नहीं हैं। English question bank बढ़ाया जा रहा है। फिलहाल Hindi चुनें या English subject चुनें।"
+        : "इस चयन में अभी 10 प्रश्न उपलब्ध नहीं हैं। कृपया All Subjects चुनें।";
+      $("quiz").hidden = true;
+      return;
     }
     if (pool.length < SIZE) {
       $("status").textContent = "इस विषय में अभी 10 प्रश्न उपलब्ध नहीं हैं। कृपया All Subjects चुनें।";
