@@ -4606,5 +4606,855 @@ window.QUIZ_QUESTIONS = [
     "answer": 2,
     "explanation": "There are five even numbers among ten cards, so probability=5/10=1/2.",
     "language": "en"
+  },
+  {
+    "id": "qb272",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Practice MCQ",
+    "question": "A prime number has exactly how many positive factors?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "A prime number has exactly two positive factors: 1 and itself.",
+    "language": "en"
+  },
+  {
+    "id": "qb273",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Practice MCQ",
+    "question": "The value of 7² is:",
+    "options": [
+      "14",
+      "42",
+      "49",
+      "56"
+    ],
+    "answer": 2,
+    "explanation": "7 × 7 = 49.",
+    "language": "en"
+  },
+  {
+    "id": "qb274",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Practice MCQ",
+    "question": "What is 15% of 200?",
+    "options": [
+      "15",
+      "20",
+      "30",
+      "40"
+    ],
+    "answer": 2,
+    "explanation": "15% of 200 = 15/100 × 200 = 30.",
+    "language": "en"
+  },
+  {
+    "id": "qb275",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Practice MCQ",
+    "question": "The sum of angles in a triangle is:",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "answer": 1,
+    "explanation": "The interior angles of every triangle add up to 180°.",
+    "language": "en"
+  },
+  {
+    "id": "qb276",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Practice MCQ",
+    "question": "The square root of 144 is:",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "answer": 2,
+    "explanation": "12 × 12 = 144.",
+    "language": "en"
+  },
+  {
+    "id": "qb277",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Practice MCQ",
+    "question": "If x/5 = 3, then x is:",
+    "options": [
+      "8",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": 2,
+    "explanation": "Multiply both sides by 5: x = 15.",
+    "language": "en"
+  },
+  {
+    "id": "qb278",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Practice MCQ",
+    "question": "A straight angle measures:",
+    "options": [
+      "45°",
+      "90°",
+      "180°",
+      "360°"
+    ],
+    "answer": 2,
+    "explanation": "A straight angle measures 180 degrees.",
+    "language": "en"
+  },
+  {
+    "id": "qb279",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Practice MCQ",
+    "question": "The HCF of 16 and 24 is:",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "The greatest common factor of 16 and 24 is 8.",
+    "language": "en"
+  },
+  {
+    "id": "qb280",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Practice MCQ",
+    "question": "How many diagonals does a quadrilateral have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "A quadrilateral has two diagonals.",
+    "language": "en"
+  },
+  {
+    "id": "qb281",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Practice MCQ",
+    "question": "Which part of a cell controls its activities?",
+    "options": [
+      "Cell wall",
+      "Nucleus",
+      "Vacuole",
+      "Cytoplasm"
+    ],
+    "answer": 1,
+    "explanation": "The nucleus contains genetic material and controls cell activities.",
+    "language": "en"
+  },
+  {
+    "id": "qb282",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Practice MCQ",
+    "question": "Which gas is essential for human respiration?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "answer": 1,
+    "explanation": "Humans use oxygen during cellular respiration.",
+    "language": "en"
+  },
+  {
+    "id": "qb283",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Practice MCQ",
+    "question": "The chemical symbol of sodium is:",
+    "options": [
+      "So",
+      "S",
+      "Na",
+      "N"
+    ],
+    "answer": 2,
+    "explanation": "The symbol Na comes from the Latin name natrium.",
+    "language": "en"
+  },
+  {
+    "id": "qb284",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Practice MCQ",
+    "question": "Which organ filters blood to form urine?",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Kidneys",
+      "Stomach"
+    ],
+    "answer": 2,
+    "explanation": "The kidneys filter wastes and extra water from the blood.",
+    "language": "en"
+  },
+  {
+    "id": "qb285",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Practice MCQ",
+    "question": "The image formed by a plane mirror is:",
+    "options": [
+      "Real and inverted",
+      "Virtual and erect",
+      "Real and erect",
+      "Virtual and inverted"
+    ],
+    "answer": 1,
+    "explanation": "A plane mirror forms a virtual, erect image.",
+    "language": "en"
+  },
+  {
+    "id": "qb286",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Practice MCQ",
+    "question": "Which nutrient is the main immediate source of energy?",
+    "options": [
+      "Carbohydrates",
+      "Vitamins",
+      "Minerals",
+      "Water"
+    ],
+    "answer": 0,
+    "explanation": "Carbohydrates are a major source of energy for the body.",
+    "language": "en"
+  },
+  {
+    "id": "qb287",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Practice MCQ",
+    "question": "Which force pulls objects toward Earth?",
+    "options": [
+      "Friction",
+      "Magnetic force",
+      "Gravity",
+      "Muscular force"
+    ],
+    "answer": 2,
+    "explanation": "Earth's gravitational force attracts objects toward its centre.",
+    "language": "en"
+  },
+  {
+    "id": "qb288",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Practice MCQ",
+    "question": "Which instrument measures electric current?",
+    "options": [
+      "Voltmeter",
+      "Ammeter",
+      "Barometer",
+      "Thermometer"
+    ],
+    "answer": 1,
+    "explanation": "An ammeter measures electric current.",
+    "language": "en"
+  },
+  {
+    "id": "qb289",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Practice MCQ",
+    "question": "Which process changes water vapour into liquid water?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Melting"
+    ],
+    "answer": 1,
+    "explanation": "Condensation is the change from gas to liquid.",
+    "language": "en"
+  },
+  {
+    "id": "qb290",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Practice MCQ",
+    "question": "Who was the leader of the Indian National Congress during the Champaran movement?",
+    "options": [
+      "Mahatma Gandhi",
+      "Subhas Chandra Bose",
+      "Bal Gangadhar Tilak",
+      "Jawaharlal Nehru"
+    ],
+    "answer": 0,
+    "explanation": "Gandhi led the Champaran Satyagraha in 1917.",
+    "language": "en"
+  },
+  {
+    "id": "qb291",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Practice MCQ",
+    "question": "Which ocean lies to the south of India?",
+    "options": [
+      "Atlantic Ocean",
+      "Arctic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean"
+    ],
+    "answer": 2,
+    "explanation": "The Indian Ocean lies to the south of India.",
+    "language": "en"
+  },
+  {
+    "id": "qb292",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Practice MCQ",
+    "question": "Which institution conducts elections in India?",
+    "options": [
+      "Supreme Court",
+      "Election Commission",
+      "Parliament",
+      "Finance Commission"
+    ],
+    "answer": 1,
+    "explanation": "The Election Commission of India supervises elections.",
+    "language": "en"
+  },
+  {
+    "id": "qb293",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Practice MCQ",
+    "question": "What is the main occupation in the primary sector?",
+    "options": [
+      "Teaching",
+      "Banking",
+      "Agriculture",
+      "Software design"
+    ],
+    "answer": 2,
+    "explanation": "Agriculture is a primary activity because it uses natural resources directly.",
+    "language": "en"
+  },
+  {
+    "id": "qb294",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Practice MCQ",
+    "question": "Which crop is known as a major kharif crop in India?",
+    "options": [
+      "Wheat",
+      "Mustard",
+      "Rice",
+      "Gram"
+    ],
+    "answer": 2,
+    "explanation": "Rice is widely grown as a kharif crop.",
+    "language": "en"
+  },
+  {
+    "id": "qb295",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Practice MCQ",
+    "question": "What does GDP stand for?",
+    "options": [
+      "Gross Domestic Product",
+      "General Development Plan",
+      "Gross District Population",
+      "Global Domestic Price"
+    ],
+    "answer": 0,
+    "explanation": "GDP means Gross Domestic Product, the value of final goods and services produced in a country.",
+    "language": "en"
+  },
+  {
+    "id": "qb296",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Practice MCQ",
+    "question": "Which movement began after the Jallianwala Bagh massacre and other events in 1919?",
+    "options": [
+      "Khilafat and Non-Cooperation",
+      "Quit India",
+      "Bardoli",
+      "Swadeshi of 1905"
+    ],
+    "answer": 0,
+    "explanation": "The Khilafat and Non-Cooperation movements developed in the following period.",
+    "language": "en"
+  },
+  {
+    "id": "qb297",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Practice MCQ",
+    "question": "Which level of government works at the village level?",
+    "options": [
+      "Union",
+      "State",
+      "Panchayat",
+      "High Court"
+    ],
+    "answer": 2,
+    "explanation": "The Gram Panchayat is a local self-government body at village level.",
+    "language": "en"
+  },
+  {
+    "id": "qb298",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "Practice MCQ",
+    "question": "'पुस्तक' का बहुवचन क्या है?",
+    "options": [
+      "पुस्तकें",
+      "पुस्तकों",
+      "पुस्तका",
+      "पुस्तकी"
+    ],
+    "answer": 0,
+    "explanation": "पुस्तक का सामान्य बहुवचन रूप पुस्तकें है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb299",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "Practice MCQ",
+    "question": "'दिन' का विलोम शब्द है:",
+    "options": [
+      "सुबह",
+      "रात",
+      "दोपहर",
+      "प्रकाश"
+    ],
+    "answer": 1,
+    "explanation": "दिन का विलोम रात है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb300",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "Practice MCQ",
+    "question": "'जल' का पर्यायवाची शब्द है:",
+    "options": [
+      "अग्नि",
+      "नीर",
+      "धरा",
+      "गगन"
+    ],
+    "answer": 1,
+    "explanation": "नीर, जल का पर्यायवाची है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb301",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "Practice MCQ",
+    "question": "'नाक कटना' मुहावरे का अर्थ है:",
+    "options": [
+      "सम्मान बढ़ना",
+      "अपमान होना",
+      "बीमार होना",
+      "बहुत खुश होना"
+    ],
+    "answer": 1,
+    "explanation": "नाक कटना का अर्थ अपमान होना है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb302",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "Practice MCQ",
+    "question": "'ईमानदार' शब्द में प्रत्यय कौन-सा है?",
+    "options": [
+      "ई",
+      "मान",
+      "दार",
+      "आर"
+    ],
+    "answer": 2,
+    "explanation": "ईमान + दार से ईमानदार बनता है; 'दार' प्रत्यय है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb303",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "Practice MCQ",
+    "question": "'लड़का' का स्त्रीलिंग रूप है:",
+    "options": [
+      "लड़की",
+      "लड़कापन",
+      "लड़के",
+      "लड़कियाँ"
+    ],
+    "answer": 0,
+    "explanation": "लड़का का स्त्रीलिंग लड़की है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb304",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "Practice MCQ",
+    "question": "'धीरे-धीरे' किस प्रकार का शब्द-युग्म है?",
+    "options": [
+      "सार्थक पुनरुक्ति",
+      "विलोम",
+      "पर्यायवाची",
+      "संधि"
+    ],
+    "answer": 0,
+    "explanation": "एक ही शब्द की पुनरावृत्ति से धीरे-धीरे बना है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb305",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "Practice MCQ",
+    "question": "'वह स्कूल जाता है।' वाक्य का काल है:",
+    "options": [
+      "भूतकाल",
+      "वर्तमान काल",
+      "भविष्यत् काल",
+      "इनमें से कोई नहीं"
+    ],
+    "answer": 1,
+    "explanation": "'जाता है' वर्तमान समय में होने वाली क्रिया बताता है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb306",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Practice MCQ",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Seperate",
+      "Separate",
+      "Seperete",
+      "Seperat"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is separate.",
+    "language": "en"
+  },
+  {
+    "id": "qb307",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Practice MCQ",
+    "question": "She ___ to school every day.",
+    "options": [
+      "go",
+      "goes",
+      "going",
+      "gone"
+    ],
+    "answer": 1,
+    "explanation": "With 'she' in the simple present, the verb takes -s: goes.",
+    "language": "en"
+  },
+  {
+    "id": "qb308",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Practice MCQ",
+    "question": "Choose the plural of 'mouse':",
+    "options": [
+      "mouses",
+      "mice",
+      "mices",
+      "mouse"
+    ],
+    "answer": 1,
+    "explanation": "The irregular plural of mouse is mice.",
+    "language": "en"
+  },
+  {
+    "id": "qb309",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Practice MCQ",
+    "question": "Choose the synonym of 'rapid':",
+    "options": [
+      "Slow",
+      "Quick",
+      "Weak",
+      "Quiet"
+    ],
+    "answer": 1,
+    "explanation": "Rapid means fast or quick.",
+    "language": "en"
+  },
+  {
+    "id": "qb310",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Practice MCQ",
+    "question": "I have lived here ___ 2020.",
+    "options": [
+      "for",
+      "since",
+      "from",
+      "at"
+    ],
+    "answer": 1,
+    "explanation": "Use 'since' with a starting point in time.",
+    "language": "en"
+  },
+  {
+    "id": "qb311",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Practice MCQ",
+    "question": "Identify the noun: 'Honesty is important.'",
+    "options": [
+      "Honesty",
+      "is",
+      "important",
+      "none"
+    ],
+    "answer": 0,
+    "explanation": "Honesty names a quality, so it is an abstract noun.",
+    "language": "en"
+  },
+  {
+    "id": "qb312",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Practice MCQ",
+    "question": "Choose the correct modal: You ___ obey traffic rules.",
+    "options": [
+      "might",
+      "must",
+      "would",
+      "could"
+    ],
+    "answer": 1,
+    "explanation": "Must expresses strong obligation.",
+    "language": "en"
+  },
+  {
+    "id": "qb313",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Practice MCQ",
+    "question": "The opposite of 'victory' is:",
+    "options": [
+      "Success",
+      "Defeat",
+      "Courage",
+      "Reward"
+    ],
+    "answer": 1,
+    "explanation": "Defeat is the opposite of victory.",
+    "language": "en"
+  },
+  {
+    "id": "qb314",
+    "board": "All India",
+    "class": "10",
+    "subject": "General Knowledge",
+    "chapter": "Practice MCQ",
+    "question": "What is the capital of Jharkhand?",
+    "options": [
+      "Ranchi",
+      "Patna",
+      "Raipur",
+      "Bhopal"
+    ],
+    "answer": 0,
+    "explanation": "Ranchi is the capital of Jharkhand.",
+    "language": "en"
+  },
+  {
+    "id": "qb315",
+    "board": "All India",
+    "class": "10",
+    "subject": "General Knowledge",
+    "chapter": "Practice MCQ",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": 1,
+    "explanation": "Iron-rich dust gives Mars its reddish appearance.",
+    "language": "en"
+  },
+  {
+    "id": "qb316",
+    "board": "All India",
+    "class": "10",
+    "subject": "General Knowledge",
+    "chapter": "Practice MCQ",
+    "question": "Who wrote India's national anthem?",
+    "options": [
+      "Bankim Chandra Chatterjee",
+      "Rabindranath Tagore",
+      "Sarojini Naidu",
+      "Munshi Premchand"
+    ],
+    "answer": 1,
+    "explanation": "Rabindranath Tagore wrote Jana Gana Mana.",
+    "language": "en"
+  },
+  {
+    "id": "qb317",
+    "board": "All India",
+    "class": "10",
+    "subject": "General Knowledge",
+    "chapter": "Practice MCQ",
+    "question": "Which is the largest planet in our solar system?",
+    "options": [
+      "Earth",
+      "Saturn",
+      "Jupiter",
+      "Neptune"
+    ],
+    "answer": 2,
+    "explanation": "Jupiter is the largest planet in the solar system.",
+    "language": "en"
+  },
+  {
+    "id": "qb318",
+    "board": "All India",
+    "class": "10",
+    "subject": "General Knowledge",
+    "chapter": "Practice MCQ",
+    "question": "How many colours are traditionally listed in a rainbow?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "answer": 2,
+    "explanation": "A rainbow is traditionally described as having seven colours.",
+    "language": "en"
+  },
+  {
+    "id": "qb319",
+    "board": "All India",
+    "class": "10",
+    "subject": "General Knowledge",
+    "chapter": "Practice MCQ",
+    "question": "Which is the national animal of India?",
+    "options": [
+      "Lion",
+      "Bengal tiger",
+      "Elephant",
+      "Leopard"
+    ],
+    "answer": 1,
+    "explanation": "The Bengal tiger is India's national animal.",
+    "language": "en"
+  },
+  {
+    "id": "qb320",
+    "board": "All India",
+    "class": "10",
+    "subject": "General Knowledge",
+    "chapter": "Practice MCQ",
+    "question": "Which day is celebrated as Constitution Day in India?",
+    "options": [
+      "15 August",
+      "26 January",
+      "26 November",
+      "2 October"
+    ],
+    "answer": 2,
+    "explanation": "Constitution Day is observed on 26 November.",
+    "language": "en"
+  },
+  {
+    "id": "qb321",
+    "board": "All India",
+    "class": "10",
+    "subject": "General Knowledge",
+    "chapter": "Practice MCQ",
+    "question": "Which Indian space organisation launched Chandrayaan missions?",
+    "options": [
+      "DRDO",
+      "ISRO",
+      "BARC",
+      "CSIR"
+    ],
+    "answer": 1,
+    "explanation": "ISRO is the Indian Space Research Organisation.",
+    "language": "en"
   }
 ];
