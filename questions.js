@@ -1359,8 +1359,7 @@ window.QUIZ_QUESTIONS = [
     "answer": 2,
     "explanation": "रसखान के आराध्य भगवान श्रीकृष्ण हैं।",
     "language": "hi"
-  }
-,
+  },
   {
     "id": "qb081",
     "board": "Bihar Board",
@@ -1530,8 +1529,7 @@ window.QUIZ_QUESTIONS = [
     "answer": 2,
     "explanation": "1919 के भारत सरकार अधिनियम के बाद सहकारिता प्रांतीय विषय बनी और राज्य सरकारों को इसकी जिम्मेदारी मिली।",
     "language": "hi"
-  }
-,
+  },
   {
     "id": "qb091",
     "board": "Bihar Board",
@@ -1701,5 +1699,362 @@ window.QUIZ_QUESTIONS = [
     "answer": 0,
     "explanation": "चेका बोल्शेविक शासन की गुप्त पुलिस संस्था थी।",
     "language": "hi"
+  },
+  {
+    "id": "qb101",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Life Processes",
+    "question": "Which part of the human digestive system absorbs most digested nutrients?",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Oesophagus"
+    ],
+    "answer": 1,
+    "explanation": "The small intestine has villi that absorb most digested nutrients into the blood.",
+    "language": "en"
+  },
+  {
+    "id": "qb102",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Chemical Reactions",
+    "question": "Which gas is released when a metal reacts with a dilute acid?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon dioxide"
+    ],
+    "answer": 2,
+    "explanation": "Many metals react with dilute acids to form a salt and release hydrogen gas.",
+    "language": "en"
+  },
+  {
+    "id": "qb103",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Electricity",
+    "question": "What is the SI unit of electrical resistance?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "answer": 2,
+    "explanation": "Electrical resistance is measured in ohms, represented by the symbol Ω.",
+    "language": "en"
+  },
+  {
+    "id": "qb104",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "व्याकरण",
+    "question": "‘नीलकमल’ में कौन-सा समास है?",
+    "options": [
+      "द्वंद्व",
+      "कर्मधारय",
+      "बहुव्रीहि",
+      "अव्ययीभाव"
+    ],
+    "answer": 1,
+    "explanation": "यहाँ ‘नीला है जो कमल’ अर्थ है, इसलिए कर्मधारय समास है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb105",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "व्याकरण",
+    "question": "‘आँखों का तारा’ मुहावरे का सही अर्थ क्या है?",
+    "options": [
+      "बहुत क्रोधित होना",
+      "बहुत प्रिय होना",
+      "धोखा देना",
+      "डर जाना"
+    ],
+    "answer": 1,
+    "explanation": "‘आँखों का तारा’ का अर्थ है कोई बहुत प्यारा या प्रिय व्यक्ति।",
+    "language": "hi"
+  },
+  {
+    "id": "qb106",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "व्याकरण",
+    "question": "‘उन्नति’ का विलोम शब्द क्या है?",
+    "options": [
+      "प्रगति",
+      "अवनति",
+      "विकास",
+      "सफलता"
+    ],
+    "answer": 1,
+    "explanation": "उन्नति का अर्थ प्रगति है और इसका विलोम अवनति है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb107",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "व्याकरण",
+    "question": "‘जो पढ़ने योग्य हो’ उसके लिए एक शब्द क्या है?",
+    "options": [
+      "पठनीय",
+      "दर्शनीय",
+      "श्रवणीय",
+      "स्मरणीय"
+    ],
+    "answer": 0,
+    "explanation": "जिसे पढ़ा जा सके या पढ़ना उचित हो, उसे पठनीय कहते हैं।",
+    "language": "hi"
+  },
+  {
+    "id": "qb108",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Grammar",
+    "question": "Choose the correct passive voice: “The teacher praised Riya.”",
+    "options": [
+      "Riya praised the teacher.",
+      "Riya was praised by the teacher.",
+      "Riya is praised by the teacher.",
+      "The teacher was praised by Riya."
+    ],
+    "answer": 1,
+    "explanation": "The simple past active sentence changes to 'was/were + past participle' in passive voice.",
+    "language": "en"
+  },
+  {
+    "id": "qb109",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Grammar",
+    "question": "Choose the correct reported speech: He said, “I am tired.”",
+    "options": [
+      "He said that I am tired.",
+      "He said that he was tired.",
+      "He says he was tired.",
+      "He told that he is tired."
+    ],
+    "answer": 1,
+    "explanation": "In reported speech, the pronoun changes to 'he' and present 'am' usually shifts to past 'was'.",
+    "language": "en"
+  },
+  {
+    "id": "qb110",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Grammar",
+    "question": "Choose the correctly spelt word.",
+    "options": [
+      "Enviroment",
+      "Environment",
+      "Envirnoment",
+      "Environmant"
+    ],
+    "answer": 1,
+    "explanation": "The correct spelling is environment.",
+    "language": "en"
+  },
+  {
+    "id": "qb111",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Nationalism in Europe",
+    "question": "Which event is commonly regarded as the beginning of the French Revolution?",
+    "options": [
+      "Congress of Vienna",
+      "Storming of the Bastille",
+      "Unification of Germany",
+      "Battle of Waterloo"
+    ],
+    "answer": 1,
+    "explanation": "The storming of the Bastille on 14 July 1789 became a major symbol of the French Revolution.",
+    "language": "en"
+  },
+  {
+    "id": "qb112",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Resources and Development",
+    "question": "Which soil is especially suitable for growing cotton?",
+    "options": [
+      "Alluvial soil",
+      "Black soil",
+      "Laterite soil",
+      "Arid soil"
+    ],
+    "answer": 1,
+    "explanation": "Black soil retains moisture and is especially suitable for cotton cultivation.",
+    "language": "en"
+  },
+  {
+    "id": "qb113",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Power Sharing",
+    "question": "Which is an important reason for sharing power in a democracy?",
+    "options": [
+      "It increases social conflict",
+      "It reduces the possibility of conflict",
+      "It removes elections",
+      "It gives all power to one person"
+    ],
+    "answer": 1,
+    "explanation": "Power sharing helps reduce conflict among social groups and supports political stability.",
+    "language": "en"
+  },
+  {
+    "id": "qb114",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Real Numbers - Basic Practice",
+    "question": "The HCF of 18 and 24 is:",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "The common factors are 1, 2, 3 and 6. The greatest is 6.",
+    "language": "en"
+  },
+  {
+    "id": "qb115",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Polynomials - Basic Practice",
+    "question": "The sum of zeroes of x² − 7x + 10 is:",
+    "options": [
+      "−7",
+      "7",
+      "10",
+      "−10"
+    ],
+    "answer": 1,
+    "explanation": "For ax² + bx + c, the sum of zeroes is −b/a. Here it is 7.",
+    "language": "en"
+  },
+  {
+    "id": "qb116",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Linear Equations - Basic Practice",
+    "question": "The pair x + y = 5 and x − y = 1 has the solution:",
+    "options": [
+      "(2, 3)",
+      "(3, 2)",
+      "(4, 1)",
+      "(1, 4)"
+    ],
+    "answer": 1,
+    "explanation": "Adding the equations gives 2x = 6, so x = 3 and y = 2.",
+    "language": "en"
+  },
+  {
+    "id": "qb117",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Quadratic Equations - Standard Practice",
+    "question": "The discriminant of 2x² − 4x + 2 = 0 is:",
+    "options": [
+      "0",
+      "4",
+      "8",
+      "16"
+    ],
+    "answer": 0,
+    "explanation": "D = b² − 4ac = (−4)² − 4×2×2 = 0.",
+    "language": "en"
+  },
+  {
+    "id": "qb118",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Arithmetic Progressions - Standard Practice",
+    "question": "What is the 10th term of the AP 3, 7, 11, 15, ...?",
+    "options": [
+      "35",
+      "37",
+      "39",
+      "41"
+    ],
+    "answer": 2,
+    "explanation": "Here a = 3 and d = 4. The 10th term is a + 9d = 3 + 36 = 39.",
+    "language": "en"
+  },
+  {
+    "id": "qb119",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Trigonometry - Standard Practice",
+    "question": "If sin θ = 3/5 for an acute angle θ, what is cos θ?",
+    "options": [
+      "3/5",
+      "4/5",
+      "5/4",
+      "5/3"
+    ],
+    "answer": 1,
+    "explanation": "Using sin²θ + cos²θ = 1, cos θ = √(1 − 9/25) = 4/5.",
+    "language": "en"
+  },
+  {
+    "id": "qb120",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Statistics - Basic Practice",
+    "question": "The mean of 4, 6, 8 and 10 is:",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "Mean = (4 + 6 + 8 + 10) ÷ 4 = 7.",
+    "language": "en"
+  },
+  {
+    "id": "qb121",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Coordinate Geometry - Standard Practice",
+    "question": "The distance between (0, 0) and (3, 4) is:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "Distance = √((3−0)² + (4−0)²) = √25 = 5.",
+    "language": "en"
   }
 ];
