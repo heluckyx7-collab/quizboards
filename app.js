@@ -32,31 +32,31 @@ document.addEventListener("DOMContentLoaded", () => {
       (board === "All" || q.board === board || q.board === "All India") &&
       (cls === "All" || q.class === cls)
     );
-    let note = "";
     if (pool.length < SIZE) {
       $("status").textContent = language === "en"
-        ? "इस विषय और English भाषा में अभी 10 प्रश्न उपलब्ध नहीं हैं। English question bank बढ़ाया जा रहा है। फिलहाल Hindi चुनें या English subject चुनें।"
-        : "इस चयन में अभी 10 प्रश्न उपलब्ध नहीं हैं। कृपया All Subjects चुनें।";
+        ? "There are not 10 questions for this selection yet. Choose All Subjects or another subject."
+        : "इस चयन में अभी 10 प्रश्न उपलब्ध नहीं हैं। कृपया All Subjects या दूसरा विषय चुनें।";
       $("quiz").hidden = true;
       return;
     }
-    if (pool.length < SIZE) {
-      $("status").textContent = "इस विषय में अभी 10 प्रश्न उपलब्ध नहीं हैं। कृपया All Subjects चुनें।";
+
+    const seen = getSeen();
+    const unseen = pool.filter(q => !seen.includes(q.id));
+    if (unseen.length < SIZE) {
+      $("status").textContent = language === "en"
+        ? "You have completed all available questions in this selection. Choose All Subjects or another subject for a fresh quiz."
+        : "इस चयन के सभी नए प्रश्न पूरे हो चुके हैं। नया Quiz पाने के लिए All Subjects या दूसरा विषय चुनें।";
+      $("quiz").hidden = true;
+      $("result").hidden = false;
       return;
     }
 
-    let seen = getSeen();
-    let unseen = pool.filter(q => !seen.includes(q.id));
-    if (unseen.length < SIZE) {
-      const ids = new Set(pool.map(q => q.id));
-      seen = seen.filter(id => !ids.has(id));
-      unseen = pool;
-    }
     quiz = shuffle(unseen).slice(0, SIZE);
-    localStorage.setItem(SEEN_KEY, JSON.stringify([...new Set([...seen, ...quiz.map(q => q.id)])]));
+    localStorage.setItem(SEEN_KEY, JSON.stringify([...seen, ...quiz.map(q => q.id)]));
     answers = {};
     submitted = false;
     $("result").hidden = true;
+    $("finish").disabled = false;
     $("quiz").hidden = false;
     $("progress").textContent = "10 Questions";
     $("score-live").textContent = "अंक: 0";
