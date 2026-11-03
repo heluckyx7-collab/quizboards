@@ -1,4 +1,5 @@
-// Starter question bank: 500 entries. Review and expand with board-wise syllabus questions before production use.\nwindow.QUIZ_QUESTIONS = [
+// QuizBoard question bank. Add reviewed questions here.
+window.QUIZ_QUESTIONS = [
   {
     "id": "qp001",
     "board": "CBSE",
