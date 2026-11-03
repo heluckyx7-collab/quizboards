@@ -1,4 +1,4 @@
-// QuizBoard question bank: 60 distinct practice questions across subjects.
+// QuizBoard question bank. Language is marked per question.
 window.QUIZ_QUESTIONS = [
   {
     "id": "qb001",
@@ -14,7 +14,8 @@ window.QUIZ_QUESTIONS = [
       "प्राकृतिक"
     ],
     "answer": 1,
-    "explanation": "√2 को p/q के रूप में नहीं लिखा जा सकता, इसलिए यह अपरिमेय है।"
+    "explanation": "√2 को p/q के रूप में नहीं लिखा जा सकता, इसलिए यह अपरिमेय है।",
+    "language": "hi"
   },
   {
     "id": "qb002",
@@ -30,7 +31,8 @@ window.QUIZ_QUESTIONS = [
       "0"
     ],
     "answer": 2,
-    "explanation": "द्विघात बहुपद की सबसे बड़ी घात 2 होती है।"
+    "explanation": "द्विघात बहुपद की सबसे बड़ी घात 2 होती है।",
+    "language": "hi"
   },
   {
     "id": "qb003",
@@ -46,7 +48,8 @@ window.QUIZ_QUESTIONS = [
       "इनमें से कोई नहीं"
     ],
     "answer": 0,
-    "explanation": "दो अलग-अलग बिंदुओं पर नहीं, बल्कि एक बिंदु पर मिलने वाली रेखाओं का एक हल होता है।"
+    "explanation": "दो अलग-अलग बिंदुओं पर नहीं, बल्कि एक बिंदु पर मिलने वाली रेखाओं का एक हल होता है।",
+    "language": "hi"
   },
   {
     "id": "qb004",
@@ -62,7 +65,8 @@ window.QUIZ_QUESTIONS = [
       "−2 और 3"
     ],
     "answer": 2,
-    "explanation": "(x−2)(x−3)=0, इसलिए मूल 2 और 3 हैं।"
+    "explanation": "(x−2)(x−3)=0, इसलिए मूल 2 और 3 हैं।",
+    "language": "hi"
   },
   {
     "id": "qb005",
@@ -78,7 +82,8 @@ window.QUIZ_QUESTIONS = [
       "6"
     ],
     "answer": 1,
-    "explanation": "लगातार पदों का अंतर 3 है।"
+    "explanation": "लगातार पदों का अंतर 3 है।",
+    "language": "hi"
   },
   {
     "id": "qb006",
@@ -94,7 +99,8 @@ window.QUIZ_QUESTIONS = [
       "असमान"
     ],
     "answer": 0,
-    "explanation": "समरूप त्रिभुजों के संगत कोण बराबर होते हैं।"
+    "explanation": "समरूप त्रिभुजों के संगत कोण बराबर होते हैं।",
+    "language": "hi"
   },
   {
     "id": "qb007",
@@ -110,7 +116,8 @@ window.QUIZ_QUESTIONS = [
       "अक्ष"
     ],
     "answer": 2,
-    "explanation": "निर्देशांक तल में (0,0) मूलबिंदु है।"
+    "explanation": "निर्देशांक तल में (0,0) मूलबिंदु है।",
+    "language": "hi"
   },
   {
     "id": "qb008",
@@ -126,7 +133,8 @@ window.QUIZ_QUESTIONS = [
       "1/2"
     ],
     "answer": 3,
-    "explanation": "sin 30° का मान 1/2 होता है।"
+    "explanation": "sin 30° का मान 1/2 होता है।",
+    "language": "hi"
   },
   {
     "id": "qb009",
@@ -142,7 +150,8 @@ window.QUIZ_QUESTIONS = [
       "तिरछी"
     ],
     "answer": 0,
-    "explanation": "स्पर्शरेखा स्पर्श बिंदु पर त्रिज्या से 90° बनाती है।"
+    "explanation": "स्पर्शरेखा स्पर्श बिंदु पर त्रिज्या से 90° बनाती है।",
+    "language": "hi"
   },
   {
     "id": "qb010",
@@ -158,7 +167,8 @@ window.QUIZ_QUESTIONS = [
       "6"
     ],
     "answer": 2,
-    "explanation": "माध्य = (2+4+6)/3 = 4।"
+    "explanation": "माध्य = (2+4+6)/3 = 4।",
+    "language": "hi"
   },
   {
     "id": "qb011",
@@ -174,7 +184,8 @@ window.QUIZ_QUESTIONS = [
       "कोई परिवर्तन नहीं"
     ],
     "answer": 1,
-    "explanation": "जंग बनने पर नया पदार्थ बनता है, इसलिए यह रासायनिक परिवर्तन है।"
+    "explanation": "जंग बनने पर नया पदार्थ बनता है, इसलिए यह रासायनिक परिवर्तन है।",
+    "language": "hi"
   },
   {
     "id": "qb012",
@@ -190,7 +201,8 @@ window.QUIZ_QUESTIONS = [
       "जल"
     ],
     "answer": 0,
-    "explanation": "अम्ल नीले लिटमस को लाल कर देता है।"
+    "explanation": "अम्ल नीले लिटमस को लाल कर देता है।",
+    "language": "hi"
   },
   {
     "id": "qb013",
@@ -206,7 +218,8 @@ window.QUIZ_QUESTIONS = [
       "पारा"
     ],
     "answer": 3,
-    "explanation": "पारा सामान्य कमरे के ताप पर द्रव धातु है।"
+    "explanation": "पारा सामान्य कमरे के ताप पर द्रव धातु है।",
+    "language": "hi"
   },
   {
     "id": "qb014",
@@ -222,7 +235,8 @@ window.QUIZ_QUESTIONS = [
       "मुख"
     ],
     "answer": 1,
-    "explanation": "छोटी आँत में पाचन पूरा होता है और पोषक तत्वों का अवशोषण होता है।"
+    "explanation": "छोटी आँत में पाचन पूरा होता है और पोषक तत्वों का अवशोषण होता है।",
+    "language": "hi"
   },
   {
     "id": "qb015",
@@ -238,7 +252,8 @@ window.QUIZ_QUESTIONS = [
       "गुर्दा"
     ],
     "answer": 2,
-    "explanation": "मस्तिष्क शरीर की गतिविधियों का नियंत्रण और समन्वय करता है।"
+    "explanation": "मस्तिष्क शरीर की गतिविधियों का नियंत्रण और समन्वय करता है।",
+    "language": "hi"
   },
   {
     "id": "qb016",
@@ -254,7 +269,8 @@ window.QUIZ_QUESTIONS = [
       "योनि"
     ],
     "answer": 0,
-    "explanation": "मानव में निषेचन सामान्यतः अंडवाहिनी में होता है।"
+    "explanation": "मानव में निषेचन सामान्यतः अंडवाहिनी में होता है।",
+    "language": "hi"
   },
   {
     "id": "qb017",
@@ -270,7 +286,8 @@ window.QUIZ_QUESTIONS = [
       "आभासी और सीधा"
     ],
     "answer": 3,
-    "explanation": "समतल दर्पण आभासी, सीधा और वस्तु के बराबर आकार का प्रतिबिंब बनाता है।"
+    "explanation": "समतल दर्पण आभासी, सीधा और वस्तु के बराबर आकार का प्रतिबिंब बनाता है।",
+    "language": "hi"
   },
   {
     "id": "qb018",
@@ -286,7 +303,8 @@ window.QUIZ_QUESTIONS = [
       "समतल"
     ],
     "answer": 1,
-    "explanation": "निकट दृष्टि दोष को अवतल लेंस से ठीक किया जाता है।"
+    "explanation": "निकट दृष्टि दोष को अवतल लेंस से ठीक किया जाता है।",
+    "language": "hi"
   },
   {
     "id": "qb019",
@@ -302,7 +320,8 @@ window.QUIZ_QUESTIONS = [
       "वाट"
     ],
     "answer": 2,
-    "explanation": "विद्युत धारा की SI इकाई एम्पियर है।"
+    "explanation": "विद्युत धारा की SI इकाई एम्पियर है।",
+    "language": "hi"
   },
   {
     "id": "qb020",
@@ -318,7 +337,8 @@ window.QUIZ_QUESTIONS = [
       "हवा"
     ],
     "answer": 0,
-    "explanation": "अधिकांश पारितंत्रों में ऊर्जा का मूल स्रोत सूर्य है।"
+    "explanation": "अधिकांश पारितंत्रों में ऊर्जा का मूल स्रोत सूर्य है।",
+    "language": "hi"
   },
   {
     "id": "qb021",
@@ -334,7 +354,8 @@ window.QUIZ_QUESTIONS = [
       "1848"
     ],
     "answer": 1,
-    "explanation": "फ्रांसीसी क्रांति 1789 में शुरू हुई।"
+    "explanation": "फ्रांसीसी क्रांति 1789 में शुरू हुई।",
+    "language": "hi"
   },
   {
     "id": "qb022",
@@ -350,7 +371,8 @@ window.QUIZ_QUESTIONS = [
       "1942"
     ],
     "answer": 2,
-    "explanation": "महात्मा गांधी ने 1930 में नमक कानून तोड़ने के लिए दांडी मार्च किया।"
+    "explanation": "महात्मा गांधी ने 1930 में नमक कानून तोड़ने के लिए दांडी मार्च किया।",
+    "language": "hi"
   },
   {
     "id": "qb023",
@@ -366,7 +388,8 @@ window.QUIZ_QUESTIONS = [
       "ऑस्ट्रेलिया और अंटार्कटिका"
     ],
     "answer": 0,
-    "explanation": "रेशम मार्ग एशिया को यूरोप सहित कई क्षेत्रों से जोड़ता था।"
+    "explanation": "रेशम मार्ग एशिया को यूरोप सहित कई क्षेत्रों से जोड़ता था।",
+    "language": "hi"
   },
   {
     "id": "qb024",
@@ -382,7 +405,8 @@ window.QUIZ_QUESTIONS = [
       "चीन"
     ],
     "answer": 3,
-    "explanation": "कागज और शुरुआती मुद्रण तकनीक का विकास चीन में हुआ।"
+    "explanation": "कागज और शुरुआती मुद्रण तकनीक का विकास चीन में हुआ।",
+    "language": "hi"
   },
   {
     "id": "qb025",
@@ -398,7 +422,8 @@ window.QUIZ_QUESTIONS = [
       "कॉफी"
     ],
     "answer": 1,
-    "explanation": "काली मिट्टी कपास की खेती के लिए अच्छी मानी जाती है।"
+    "explanation": "काली मिट्टी कपास की खेती के लिए अच्छी मानी जाती है।",
+    "language": "hi"
   },
   {
     "id": "qb026",
@@ -414,7 +439,8 @@ window.QUIZ_QUESTIONS = [
       "ताप बढ़ाना"
     ],
     "answer": 0,
-    "explanation": "वर्षा जल संचयन से पानी जमा करके भविष्य में उपयोग किया जा सकता है।"
+    "explanation": "वर्षा जल संचयन से पानी जमा करके भविष्य में उपयोग किया जा सकता है।",
+    "language": "hi"
   },
   {
     "id": "qb027",
@@ -430,7 +456,8 @@ window.QUIZ_QUESTIONS = [
       "जूट"
     ],
     "answer": 2,
-    "explanation": "गेहूँ भारत की प्रमुख रबी फसल है।"
+    "explanation": "गेहूँ भारत की प्रमुख रबी फसल है।",
+    "language": "hi"
   },
   {
     "id": "qb028",
@@ -446,7 +473,8 @@ window.QUIZ_QUESTIONS = [
       "बर्लिन"
     ],
     "answer": 1,
-    "explanation": "ब्रसेल्स बेल्जियम की राजधानी है।"
+    "explanation": "ब्रसेल्स बेल्जियम की राजधानी है।",
+    "language": "hi"
   },
   {
     "id": "qb029",
@@ -462,7 +490,8 @@ window.QUIZ_QUESTIONS = [
       "तीन"
     ],
     "answer": 3,
-    "explanation": "भारत में संघ, राज्य और स्थानीय स्तर की सरकारें हैं।"
+    "explanation": "भारत में संघ, राज्य और स्थानीय स्तर की सरकारें हैं।",
+    "language": "hi"
   },
   {
     "id": "qb030",
@@ -478,7 +507,8 @@ window.QUIZ_QUESTIONS = [
       "वित्त आयोग"
     ],
     "answer": 0,
-    "explanation": "भारत का निर्वाचन आयोग चुनावों का संचालन करता है।"
+    "explanation": "भारत का निर्वाचन आयोग चुनावों का संचालन करता है।",
+    "language": "hi"
   },
   {
     "id": "qb031",
@@ -494,7 +524,8 @@ window.QUIZ_QUESTIONS = [
       "सार्वनामिक"
     ],
     "answer": 1,
-    "explanation": "सुंदर किसी गुण को बताता है, इसलिए गुणवाचक विशेषण है।"
+    "explanation": "सुंदर किसी गुण को बताता है, इसलिए गुणवाचक विशेषण है।",
+    "language": "hi"
   },
   {
     "id": "qb032",
@@ -510,7 +541,8 @@ window.QUIZ_QUESTIONS = [
       "लड़कियाँ"
     ],
     "answer": 2,
-    "explanation": "लड़का का सामान्य बहुवचन लड़के है।"
+    "explanation": "लड़का का सामान्य बहुवचन लड़के है।",
+    "language": "hi"
   },
   {
     "id": "qb033",
@@ -526,7 +558,8 @@ window.QUIZ_QUESTIONS = [
       "दोपहर"
     ],
     "answer": 0,
-    "explanation": "दिन का विलोम रात है।"
+    "explanation": "दिन का विलोम रात है।",
+    "language": "hi"
   },
   {
     "id": "qb034",
@@ -542,7 +575,8 @@ window.QUIZ_QUESTIONS = [
       "नीर"
     ],
     "answer": 3,
-    "explanation": "नीर, जल का पर्यायवाची है।"
+    "explanation": "नीर, जल का पर्यायवाची है।",
+    "language": "hi"
   },
   {
     "id": "qb035",
@@ -558,7 +592,8 @@ window.QUIZ_QUESTIONS = [
       "अव्ययीभाव"
     ],
     "answer": 1,
-    "explanation": "राजा का पुत्र—यह संबंध बताता है, इसलिए तत्पुरुष समास है।"
+    "explanation": "राजा का पुत्र—यह संबंध बताता है, इसलिए तत्पुरुष समास है।",
+    "language": "hi"
   },
   {
     "id": "qb036",
@@ -574,7 +609,8 @@ window.QUIZ_QUESTIONS = [
       "विद्या + लय"
     ],
     "answer": 0,
-    "explanation": "विद्या और आलय के मेल से विद्यालय बनता है।"
+    "explanation": "विद्या और आलय के मेल से विद्यालय बनता है।",
+    "language": "hi"
   },
   {
     "id": "qb037",
@@ -590,7 +626,8 @@ window.QUIZ_QUESTIONS = [
       "बहुत तेज"
     ],
     "answer": 2,
-    "explanation": "आँखों का तारा अर्थात बहुत प्रिय व्यक्ति।"
+    "explanation": "आँखों का तारा अर्थात बहुत प्रिय व्यक्ति।",
+    "language": "hi"
   },
   {
     "id": "qb038",
@@ -606,7 +643,8 @@ window.QUIZ_QUESTIONS = [
       "विधानवाचक"
     ],
     "answer": 3,
-    "explanation": "यह सामान्य कथन है, इसलिए विधानवाचक वाक्य है।"
+    "explanation": "यह सामान्य कथन है, इसलिए विधानवाचक वाक्य है।",
+    "language": "hi"
   },
   {
     "id": "qb039",
@@ -622,7 +660,8 @@ window.QUIZ_QUESTIONS = [
       "संबंधवाचक"
     ],
     "answer": 0,
-    "explanation": "मैं उत्तम पुरुष का पुरुषवाचक सर्वनाम है।"
+    "explanation": "मैं उत्तम पुरुष का पुरुषवाचक सर्वनाम है।",
+    "language": "hi"
   },
   {
     "id": "qb040",
@@ -638,7 +677,8 @@ window.QUIZ_QUESTIONS = [
       "ई"
     ],
     "answer": 3,
-    "explanation": "ईमानदार में ‘ई’ प्रत्यय लगने से ईमानदारी बनता है।"
+    "explanation": "ईमानदार में ‘ई’ प्रत्यय लगने से ईमानदारी बनता है।",
+    "language": "hi"
   },
   {
     "id": "qb041",
@@ -654,7 +694,8 @@ window.QUIZ_QUESTIONS = [
       "Mices"
     ],
     "answer": 1,
-    "explanation": "The plural form of mouse is mice."
+    "explanation": "The plural form of mouse is mice.",
+    "language": "en"
   },
   {
     "id": "qb042",
@@ -670,7 +711,8 @@ window.QUIZ_QUESTIONS = [
       "Going"
     ],
     "answer": 2,
-    "explanation": "The simple past tense of go is went."
+    "explanation": "The simple past tense of go is went.",
+    "language": "en"
   },
   {
     "id": "qb043",
@@ -686,7 +728,8 @@ window.QUIZ_QUESTIONS = [
       "Happiness"
     ],
     "answer": 0,
-    "explanation": "Beautiful describes a noun, so it is an adjective."
+    "explanation": "Beautiful describes a noun, so it is an adjective.",
+    "language": "en"
   },
   {
     "id": "qb044",
@@ -702,7 +745,8 @@ window.QUIZ_QUESTIONS = [
       "An"
     ],
     "answer": 3,
-    "explanation": "Use 'an' before a vowel sound; honest begins with a silent h."
+    "explanation": "Use 'an' before a vowel sound; honest begins with a silent h.",
+    "language": "en"
   },
   {
     "id": "qb045",
@@ -718,7 +762,8 @@ window.QUIZ_QUESTIONS = [
       "Historic"
     ],
     "answer": 1,
-    "explanation": "Modern is the opposite of ancient."
+    "explanation": "Modern is the opposite of ancient.",
+    "language": "en"
   },
   {
     "id": "qb046",
@@ -734,7 +779,8 @@ window.QUIZ_QUESTIONS = [
       "drank"
     ],
     "answer": 2,
-    "explanation": "With she in the simple present, use drinks."
+    "explanation": "With she in the simple present, use drinks.",
+    "language": "en"
   },
   {
     "id": "qb047",
@@ -750,7 +796,8 @@ window.QUIZ_QUESTIONS = [
       "Lazy"
     ],
     "answer": 0,
-    "explanation": "Courageous means brave."
+    "explanation": "Courageous means brave.",
+    "language": "en"
   },
   {
     "id": "qb048",
@@ -766,7 +813,8 @@ window.QUIZ_QUESTIONS = [
       "They"
     ],
     "answer": 3,
-    "explanation": "They is the pronoun in the sentence."
+    "explanation": "They is the pronoun in the sentence.",
+    "language": "en"
   },
   {
     "id": "qb049",
@@ -782,7 +830,8 @@ window.QUIZ_QUESTIONS = [
       "Envirement"
     ],
     "answer": 1,
-    "explanation": "The correct spelling is environment."
+    "explanation": "The correct spelling is environment.",
+    "language": "en"
   },
   {
     "id": "qb050",
@@ -798,7 +847,8 @@ window.QUIZ_QUESTIONS = [
       "I am eating rice."
     ],
     "answer": 2,
-    "explanation": "Will eat expresses a future action."
+    "explanation": "Will eat expresses a future action.",
+    "language": "en"
   },
   {
     "id": "qb051",
@@ -814,7 +864,8 @@ window.QUIZ_QUESTIONS = [
       "प्रेमचंद"
     ],
     "answer": 0,
-    "explanation": "जन गण मन की रचना रवीन्द्रनाथ टैगोर ने की।"
+    "explanation": "जन गण मन की रचना रवीन्द्रनाथ टैगोर ने की।",
+    "language": "hi"
   },
   {
     "id": "qb052",
@@ -830,7 +881,8 @@ window.QUIZ_QUESTIONS = [
       "महाराष्ट्र"
     ],
     "answer": 2,
-    "explanation": "राजस्थान क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राज्य है।"
+    "explanation": "राजस्थान क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राज्य है।",
+    "language": "hi"
   },
   {
     "id": "qb053",
@@ -846,7 +898,8 @@ window.QUIZ_QUESTIONS = [
       "शुक्र"
     ],
     "answer": 1,
-    "explanation": "बृहस्पति सौरमंडल का सबसे बड़ा ग्रह है।"
+    "explanation": "बृहस्पति सौरमंडल का सबसे बड़ा ग्रह है।",
+    "language": "hi"
   },
   {
     "id": "qb054",
@@ -862,7 +915,8 @@ window.QUIZ_QUESTIONS = [
       "26 जनवरी 1950"
     ],
     "answer": 3,
-    "explanation": "भारतीय संविधान 26 जनवरी 1950 को लागू हुआ।"
+    "explanation": "भारतीय संविधान 26 जनवरी 1950 को लागू हुआ।",
+    "language": "hi"
   },
   {
     "id": "qb055",
@@ -878,7 +932,8 @@ window.QUIZ_QUESTIONS = [
       "नंदा देवी"
     ],
     "answer": 0,
-    "explanation": "समुद्र तल से ऊँचाई के आधार पर माउंट एवरेस्ट सबसे ऊँचा है।"
+    "explanation": "समुद्र तल से ऊँचाई के आधार पर माउंट एवरेस्ट सबसे ऊँचा है।",
+    "language": "hi"
   },
   {
     "id": "qb056",
@@ -894,7 +949,8 @@ window.QUIZ_QUESTIONS = [
       "मेलानिन"
     ],
     "answer": 2,
-    "explanation": "क्लोरोफिल पौधों को हरा रंग देता है।"
+    "explanation": "क्लोरोफिल पौधों को हरा रंग देता है।",
+    "language": "hi"
   },
   {
     "id": "qb057",
@@ -910,7 +966,8 @@ window.QUIZ_QUESTIONS = [
       "यूरो"
     ],
     "answer": 1,
-    "explanation": "भारत की आधिकारिक मुद्रा भारतीय रुपया है।"
+    "explanation": "भारत की आधिकारिक मुद्रा भारतीय रुपया है।",
+    "language": "hi"
   },
   {
     "id": "qb058",
@@ -926,7 +983,8 @@ window.QUIZ_QUESTIONS = [
       "गंगोत्री"
     ],
     "answer": 3,
-    "explanation": "गंगा की मुख्य धारा भागीरथी गंगोत्री हिमनद से निकलती है।"
+    "explanation": "गंगा की मुख्य धारा भागीरथी गंगोत्री हिमनद से निकलती है।",
+    "language": "hi"
   },
   {
     "id": "qb059",
@@ -942,7 +1000,8 @@ window.QUIZ_QUESTIONS = [
       "फेफड़ा"
     ],
     "answer": 0,
-    "explanation": "त्वचा मानव शरीर का सबसे बड़ा अंग है।"
+    "explanation": "त्वचा मानव शरीर का सबसे बड़ा अंग है।",
+    "language": "hi"
   },
   {
     "id": "qb060",
@@ -958,6 +1017,7 @@ window.QUIZ_QUESTIONS = [
       "5"
     ],
     "answer": 2,
-    "explanation": "ग्रीष्मकालीन ओलंपिक सामान्यतः हर चार वर्ष में होते हैं।"
+    "explanation": "ग्रीष्मकालीन ओलंपिक सामान्यतः हर चार वर्ष में होते हैं।",
+    "language": "hi"
   }
 ];
