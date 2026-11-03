@@ -2056,5 +2056,855 @@ window.QUIZ_QUESTIONS = [
     "answer": 2,
     "explanation": "Distance = √((3−0)² + (4−0)²) = √25 = 5.",
     "language": "en"
+  },
+  {
+    "id": "qb122",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Life Processes",
+    "question": "Which enzyme in saliva begins the digestion of starch?",
+    "options": [
+      "Pepsin",
+      "Salivary amylase",
+      "Trypsin",
+      "Lipase"
+    ],
+    "answer": 1,
+    "explanation": "Salivary amylase starts breaking starch into simpler sugars in the mouth.",
+    "language": "en"
+  },
+  {
+    "id": "qb123",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Life Processes",
+    "question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+    "options": [
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Aorta",
+      "Vena cava"
+    ],
+    "answer": 1,
+    "explanation": "Pulmonary veins carry oxygen-rich blood from the lungs to the left atrium.",
+    "language": "en"
+  },
+  {
+    "id": "qb124",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Control and Coordination",
+    "question": "Which part of the brain helps maintain posture and balance?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "answer": 1,
+    "explanation": "The cerebellum coordinates muscular activity and helps maintain balance and posture.",
+    "language": "en"
+  },
+  {
+    "id": "qb125",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "How do Organisms Reproduce?",
+    "question": "Which method is commonly used by yeast for asexual reproduction?",
+    "options": [
+      "Binary fission",
+      "Budding",
+      "Fragmentation",
+      "Spore formation"
+    ],
+    "answer": 1,
+    "explanation": "Yeast commonly reproduces asexually by forming a small outgrowth called a bud.",
+    "language": "en"
+  },
+  {
+    "id": "qb126",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Heredity",
+    "question": "How many pairs of chromosomes are normally present in a human body cell?",
+    "options": [
+      "22",
+      "23",
+      "24",
+      "46"
+    ],
+    "answer": 1,
+    "explanation": "A normal human body cell has 23 pairs, or 46 chromosomes.",
+    "language": "en"
+  },
+  {
+    "id": "qb127",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Light",
+    "question": "What is the nature of the image formed by a plane mirror?",
+    "options": [
+      "Real and inverted",
+      "Virtual and erect",
+      "Real and erect",
+      "Virtual and inverted"
+    ],
+    "answer": 1,
+    "explanation": "A plane mirror forms a virtual, erect image of the same size as the object.",
+    "language": "en"
+  },
+  {
+    "id": "qb128",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Electricity",
+    "question": "If a current of 2 A flows through a resistor of 5 Ω, what is the potential difference?",
+    "options": [
+      "2.5 V",
+      "5 V",
+      "10 V",
+      "20 V"
+    ],
+    "answer": 2,
+    "explanation": "Using Ohm’s law, V = IR = 2 × 5 = 10 V.",
+    "language": "en"
+  },
+  {
+    "id": "qb129",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Magnetic Effects of Electric Current",
+    "question": "Which device converts electrical energy into mechanical energy?",
+    "options": [
+      "Electric motor",
+      "Electric generator",
+      "Transformer",
+      "Fuse"
+    ],
+    "answer": 0,
+    "explanation": "An electric motor uses the magnetic effect of current to produce mechanical motion.",
+    "language": "en"
+  },
+  {
+    "id": "qb130",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Our Environment",
+    "question": "Which organisms are called decomposers in an ecosystem?",
+    "options": [
+      "Green plants",
+      "Herbivores",
+      "Bacteria and fungi",
+      "Carnivores"
+    ],
+    "answer": 2,
+    "explanation": "Bacteria and fungi break down dead organic matter and recycle nutrients.",
+    "language": "en"
+  },
+  {
+    "id": "qb131",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Science",
+    "chapter": "Acids, Bases and Salts",
+    "question": "What colour does blue litmus turn in an acidic solution?",
+    "options": [
+      "Blue",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "answer": 1,
+    "explanation": "An acid turns blue litmus paper red.",
+    "language": "en"
+  },
+  {
+    "id": "qb132",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Real Numbers",
+    "question": "Which of the following is an irrational number?",
+    "options": [
+      "√2",
+      "0.25",
+      "3/4",
+      "0.121212..."
+    ],
+    "answer": 0,
+    "explanation": "√2 cannot be expressed as a ratio of two integers, so it is irrational.",
+    "language": "en"
+  },
+  {
+    "id": "qb133",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Polynomials",
+    "question": "If α and β are the zeroes of x² − 5x + 6, what is αβ?",
+    "options": [
+      "5",
+      "6",
+      "−5",
+      "−6"
+    ],
+    "answer": 1,
+    "explanation": "For ax² + bx + c, the product of zeroes is c/a. Here it is 6.",
+    "language": "en"
+  },
+  {
+    "id": "qb134",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Pair of Linear Equations",
+    "question": "The equations 2x + 3y = 6 and 4x + 6y = 12 have:",
+    "options": [
+      "No solution",
+      "Exactly one solution",
+      "Infinitely many solutions",
+      "Exactly two solutions"
+    ],
+    "answer": 2,
+    "explanation": "The second equation is twice the first, so both represent the same line.",
+    "language": "en"
+  },
+  {
+    "id": "qb135",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Quadratic Equations",
+    "question": "The roots of x² − 9 = 0 are:",
+    "options": [
+      "0 and 9",
+      "3 and −3",
+      "9 and −9",
+      "3 and 3"
+    ],
+    "answer": 1,
+    "explanation": "x² = 9 gives x = 3 or x = −3.",
+    "language": "en"
+  },
+  {
+    "id": "qb136",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Arithmetic Progressions",
+    "question": "What is the common difference of the AP 12, 9, 6, 3, ...?",
+    "options": [
+      "3",
+      "−3",
+      "−6",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "The common difference is 9 − 12 = −3.",
+    "language": "en"
+  },
+  {
+    "id": "qb137",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Triangles",
+    "question": "If two triangles are similar, the ratio of their areas is equal to:",
+    "options": [
+      "The ratio of corresponding sides",
+      "The square of the ratio of corresponding sides",
+      "The cube of the ratio of corresponding sides",
+      "The sum of corresponding sides"
+    ],
+    "answer": 1,
+    "explanation": "For similar triangles, the ratio of areas equals the square of the ratio of corresponding sides.",
+    "language": "en"
+  },
+  {
+    "id": "qb138",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Coordinate Geometry",
+    "question": "The midpoint of the line segment joining (2, 4) and (6, 8) is:",
+    "options": [
+      "(4, 6)",
+      "(8, 12)",
+      "(2, 2)",
+      "(3, 4)"
+    ],
+    "answer": 0,
+    "explanation": "Midpoint = ((2+6)/2, (4+8)/2) = (4, 6).",
+    "language": "en"
+  },
+  {
+    "id": "qb139",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Introduction to Trigonometry",
+    "question": "What is the value of tan 45°?",
+    "options": [
+      "0",
+      "1",
+      "√3",
+      "1/√3"
+    ],
+    "answer": 1,
+    "explanation": "For a 45° angle, the opposite and adjacent sides are equal, so tan 45° = 1.",
+    "language": "en"
+  },
+  {
+    "id": "qb140",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Areas Related to Circles",
+    "question": "What is the circumference of a circle of radius r?",
+    "options": [
+      "πr²",
+      "2πr",
+      "πd²",
+      "2r²"
+    ],
+    "answer": 1,
+    "explanation": "The circumference of a circle is 2π times its radius.",
+    "language": "en"
+  },
+  {
+    "id": "qb141",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Probability",
+    "question": "A fair coin is tossed once. What is the probability of getting a head?",
+    "options": [
+      "0",
+      "1/4",
+      "1/2",
+      "1"
+    ],
+    "answer": 2,
+    "explanation": "There are two equally likely outcomes, head and tail. The probability of head is 1/2.",
+    "language": "en"
+  },
+  {
+    "id": "qb142",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Nationalism in India",
+    "question": "Who led the Dandi March in 1930?",
+    "options": [
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Patel"
+    ],
+    "answer": 1,
+    "explanation": "Mahatma Gandhi led the Dandi March to protest against the British salt tax.",
+    "language": "en"
+  },
+  {
+    "id": "qb143",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Nationalism in Europe",
+    "question": "Who hosted the Congress of Vienna in 1815?",
+    "options": [
+      "Otto von Bismarck",
+      "Duke Metternich",
+      "Giuseppe Garibaldi",
+      "Napoleon Bonaparte"
+    ],
+    "answer": 1,
+    "explanation": "Austrian Chancellor Duke Metternich hosted the Congress of Vienna.",
+    "language": "en"
+  },
+  {
+    "id": "qb144",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "The Making of a Global World",
+    "question": "Which disease contributed greatly to the depopulation of the Americas after European contact?",
+    "options": [
+      "Smallpox",
+      "Malaria only",
+      "Scurvy",
+      "Cholera only"
+    ],
+    "answer": 0,
+    "explanation": "Smallpox spread among Indigenous communities who had little prior exposure to it.",
+    "language": "en"
+  },
+  {
+    "id": "qb145",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Resources and Development",
+    "question": "Which of these is a renewable resource?",
+    "options": [
+      "Coal",
+      "Petroleum",
+      "Solar energy",
+      "Natural gas"
+    ],
+    "answer": 2,
+    "explanation": "Solar energy is naturally replenished and is a renewable resource.",
+    "language": "en"
+  },
+  {
+    "id": "qb146",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Water Resources",
+    "question": "Which method is used to collect and store rainwater for future use?",
+    "options": [
+      "Terrace farming",
+      "Rainwater harvesting",
+      "Shifting cultivation",
+      "Contour ploughing"
+    ],
+    "answer": 1,
+    "explanation": "Rainwater harvesting collects and stores rainwater for later use or groundwater recharge.",
+    "language": "en"
+  },
+  {
+    "id": "qb147",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Agriculture",
+    "question": "Which crop is generally grown in the kharif season?",
+    "options": [
+      "Wheat",
+      "Mustard",
+      "Rice",
+      "Gram"
+    ],
+    "answer": 2,
+    "explanation": "Rice is commonly grown during the monsoon kharif season.",
+    "language": "en"
+  },
+  {
+    "id": "qb148",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Power Sharing",
+    "question": "Which country is often cited as an example of successful accommodation between linguistic groups?",
+    "options": [
+      "Belgium",
+      "Sri Lanka",
+      "Nepal",
+      "Japan"
+    ],
+    "answer": 0,
+    "explanation": "Belgium adopted power-sharing arrangements to accommodate its different linguistic communities.",
+    "language": "en"
+  },
+  {
+    "id": "qb149",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Federalism",
+    "question": "Which level of government looks after matters of national importance in India?",
+    "options": [
+      "Village panchayat",
+      "Union government",
+      "Municipal corporation",
+      "Ward committee"
+    ],
+    "answer": 1,
+    "explanation": "The Union government handles national matters such as defence and foreign affairs.",
+    "language": "en"
+  },
+  {
+    "id": "qb150",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Political Parties",
+    "question": "What is the main function of an opposition party in a democracy?",
+    "options": [
+      "To stop all laws",
+      "To question and check the government",
+      "To appoint judges",
+      "To conduct the census"
+    ],
+    "answer": 1,
+    "explanation": "Opposition parties question government decisions and help hold the government accountable.",
+    "language": "en"
+  },
+  {
+    "id": "qb151",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Social Science",
+    "chapter": "Economics - Development",
+    "question": "Which measure is commonly used to compare the average income of countries?",
+    "options": [
+      "Total population",
+      "Per capita income",
+      "Total area",
+      "Number of rivers"
+    ],
+    "answer": 1,
+    "explanation": "Per capita income is calculated by dividing total income by the population.",
+    "language": "en"
+  },
+  {
+    "id": "qb152",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Grammar",
+    "question": "Choose the correct option: Neither of the boys ___ absent today.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "answer": 2,
+    "explanation": "'Neither' is treated as singular in this sentence, so the correct verb is 'is'.",
+    "language": "en"
+  },
+  {
+    "id": "qb153",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Grammar",
+    "question": "Choose the correct conjunction: I stayed at home ___ it was raining.",
+    "options": [
+      "because",
+      "although",
+      "unless",
+      "or"
+    ],
+    "answer": 0,
+    "explanation": "'Because' introduces the reason for staying at home.",
+    "language": "en"
+  },
+  {
+    "id": "qb154",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Grammar",
+    "question": "Choose the correct form: She has ___ her homework.",
+    "options": [
+      "complete",
+      "completed",
+      "completing",
+      "completes"
+    ],
+    "answer": 1,
+    "explanation": "The present perfect tense uses has/have followed by the past participle 'completed'.",
+    "language": "en"
+  },
+  {
+    "id": "qb155",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Vocabulary",
+    "question": "Choose the antonym of 'ancient'.",
+    "options": [
+      "Old",
+      "Historic",
+      "Modern",
+      "Early"
+    ],
+    "answer": 2,
+    "explanation": "'Modern' means relating to the present or recent times and is the opposite of 'ancient'.",
+    "language": "en"
+  },
+  {
+    "id": "qb156",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Vocabulary",
+    "question": "Choose the synonym of 'brave'.",
+    "options": [
+      "Courageous",
+      "Careless",
+      "Timid",
+      "Weak"
+    ],
+    "answer": 0,
+    "explanation": "'Courageous' means showing courage, so it is a synonym of 'brave'.",
+    "language": "en"
+  },
+  {
+    "id": "qb157",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Grammar",
+    "question": "Choose the correct question tag: You are coming, ___?",
+    "options": [
+      "are you",
+      "aren't you",
+      "do you",
+      "won't you"
+    ],
+    "answer": 1,
+    "explanation": "A positive statement with 'are' takes the negative tag 'aren't you'.",
+    "language": "en"
+  },
+  {
+    "id": "qb158",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Grammar",
+    "question": "Choose the correctly punctuated sentence.",
+    "options": [
+      "Where are you going.",
+      "Where are you going?",
+      "where are you going?",
+      "Where are you going!"
+    ],
+    "answer": 1,
+    "explanation": "A direct question begins with a capital letter and ends with a question mark.",
+    "language": "en"
+  },
+  {
+    "id": "qb159",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Grammar",
+    "question": "Change into indirect speech: She said, “I can swim.”",
+    "options": [
+      "She said that she could swim.",
+      "She said that I can swim.",
+      "She says she could swim.",
+      "She told that she can swim."
+    ],
+    "answer": 0,
+    "explanation": "In reported speech, 'can' generally changes to 'could' and 'I' changes to 'she'.",
+    "language": "en"
+  },
+  {
+    "id": "qb160",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Grammar",
+    "question": "Choose the correct article: He is ___ honest man.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "answer": 1,
+    "explanation": "'Honest' begins with a vowel sound because the h is silent, so 'an' is used.",
+    "language": "en"
+  },
+  {
+    "id": "qb161",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "English",
+    "chapter": "Grammar",
+    "question": "Choose the correct preposition: The train arrived ___ time.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "by"
+    ],
+    "answer": 1,
+    "explanation": "The phrase 'on time' means at the scheduled time.",
+    "language": "en"
+  },
+  {
+    "id": "qb162",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "व्याकरण",
+    "question": "‘महेश’ का सही संधि-विच्छेद क्या है?",
+    "options": [
+      "महा + ईश",
+      "मही + ईश",
+      "महे + श",
+      "मह + ईश"
+    ],
+    "answer": 0,
+    "explanation": "महा + ईश के मेल से महेश बनता है; यह गुण संधि का उदाहरण है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb163",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "व्याकरण",
+    "question": "‘दिन-रात’ में कौन-सा समास है?",
+    "options": [
+      "तत्पुरुष",
+      "द्वंद्व",
+      "कर्मधारय",
+      "बहुव्रीहि"
+    ],
+    "answer": 1,
+    "explanation": "दिन और रात दोनों पद समान महत्व रखते हैं, इसलिए द्वंद्व समास है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb164",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "व्याकरण",
+    "question": "‘कमल’ का एक पर्यायवाची शब्द कौन-सा है?",
+    "options": [
+      "पंकज",
+      "पवन",
+      "अनल",
+      "गगन"
+    ],
+    "answer": 0,
+    "explanation": "पंकज कमल का पर्यायवाची शब्द है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb165",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "व्याकरण",
+    "question": "‘लाभ’ का विलोम शब्द क्या है?",
+    "options": [
+      "आय",
+      "हानि",
+      "धन",
+      "उन्नति"
+    ],
+    "answer": 1,
+    "explanation": "लाभ का विपरीत अर्थ हानि होता है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb166",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "व्याकरण",
+    "question": "‘जो कभी न मरे’ के लिए एक शब्द क्या है?",
+    "options": [
+      "अजर",
+      "अमर",
+      "अटल",
+      "अदृश्य"
+    ],
+    "answer": 1,
+    "explanation": "जो कभी मृत्यु को प्राप्त न हो, उसे अमर कहते हैं।",
+    "language": "hi"
+  },
+  {
+    "id": "qb167",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "व्याकरण",
+    "question": "‘नाक कटना’ मुहावरे का अर्थ क्या है?",
+    "options": [
+      "बीमार होना",
+      "अपमान होना",
+      "बहुत खुश होना",
+      "भाग जाना"
+    ],
+    "answer": 1,
+    "explanation": "‘नाक कटना’ का अर्थ है अपमानित होना या प्रतिष्ठा खोना।",
+    "language": "hi"
+  },
+  {
+    "id": "qb168",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "व्याकरण",
+    "question": "‘चारु चंद्र की चंचल किरणें’ में कौन-सा अलंकार प्रमुख है?",
+    "options": [
+      "अनुप्रास",
+      "उपमा",
+      "रूपक",
+      "यमक"
+    ],
+    "answer": 0,
+    "explanation": "‘च’ वर्ण की बार-बार आवृत्ति होने से अनुप्रास अलंकार है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb169",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "व्याकरण",
+    "question": "‘वह धीरे-धीरे चलता है।’ वाक्य में ‘धीरे-धीरे’ कौन-सा पद है?",
+    "options": [
+      "संज्ञा",
+      "सर्वनाम",
+      "क्रिया-विशेषण",
+      "विशेषण"
+    ],
+    "answer": 2,
+    "explanation": "‘धीरे-धीरे’ चलने की रीति बताता है, इसलिए यह क्रिया-विशेषण है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb170",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "व्याकरण",
+    "question": "‘सुंदर फूल’ में ‘सुंदर’ कौन-सा शब्द-भेद है?",
+    "options": [
+      "संज्ञा",
+      "विशेषण",
+      "क्रिया",
+      "सर्वनाम"
+    ],
+    "answer": 1,
+    "explanation": "‘सुंदर’ फूल की विशेषता बताता है, इसलिए यह विशेषण है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb171",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Hindi",
+    "chapter": "व्याकरण",
+    "question": "‘राम ने फल खाया।’ वाक्य में कर्ता कौन है?",
+    "options": [
+      "राम",
+      "फल",
+      "खाया",
+      "ने"
+    ],
+    "answer": 0,
+    "explanation": "जिसके द्वारा कार्य किया जाता है, वह कर्ता होता है; यहाँ राम कर्ता है।",
+    "language": "hi"
   }
 ];
