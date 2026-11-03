@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", () => {
     $("quiz").hidden = false;
     $("progress").textContent = "10 Questions";
     $("score-live").textContent = "अंक: 0";
-    $("status").textContent = note;
+    $("status").textContent = "";
     renderQuestions();
     $("quiz").scrollIntoView({behavior:"smooth",block:"start"});
   }
