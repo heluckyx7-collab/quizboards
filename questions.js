@@ -2906,5 +2906,855 @@ window.QUIZ_QUESTIONS = [
     "answer": 0,
     "explanation": "जिसके द्वारा कार्य किया जाता है, वह कर्ता होता है; यहाँ राम कर्ता है।",
     "language": "hi"
+  },
+  {
+    "id": "qb172",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Real Numbers",
+    "question": "यूक्लिड विभाजन एल्गोरिथ्म में a = bq + r के लिए शेषफल r की सही शर्त क्या है?",
+    "options": [
+      "0 ≤ r < b",
+      "0 < r ≤ b",
+      "r > b",
+      "r = b"
+    ],
+    "answer": 0,
+    "explanation": "शेषफल हमेशा 0 या धनात्मक होता है और भाजक b से छोटा होता है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb173",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Real Numbers",
+    "question": "दो संख्याओं का HCF 6 और LCM 72 है। यदि एक संख्या 18 है, तो दूसरी संख्या क्या होगी?",
+    "options": [
+      "12",
+      "18",
+      "24",
+      "36"
+    ],
+    "answer": 2,
+    "explanation": "पहली संख्या × दूसरी संख्या = HCF × LCM; दूसरी = 6×72÷18 = 24।",
+    "language": "hi"
+  },
+  {
+    "id": "qb174",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Real Numbers",
+    "question": "किसी परिमेय संख्या का दशमलव प्रसार सांत कब होता है?",
+    "options": [
+      "हर का अभाज्य गुणनखंड केवल 2 और 5 हों",
+      "हर में 3 हो",
+      "हर में 7 हो",
+      "हर विषम हो"
+    ],
+    "answer": 0,
+    "explanation": "सरलतम रूप में हर के अभाज्य गुणनखंड केवल 2 और 5 हों तो दशमलव सांत होता है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb175",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Polynomials",
+    "question": "बहुपद 3x² − 7x + 2 के शून्यकों का योग क्या है?",
+    "options": [
+      "−7/3",
+      "7/3",
+      "2/3",
+      "−2/3"
+    ],
+    "answer": 1,
+    "explanation": "ax²+bx+c के शून्यकों का योग −b/a होता है; यहाँ 7/3।",
+    "language": "hi"
+  },
+  {
+    "id": "qb176",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Polynomials",
+    "question": "यदि p(x)=x²−4 है, तो p(2) का मान क्या है?",
+    "options": [
+      "−2",
+      "0",
+      "2",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "p(2)=2²−4=4−4=0।",
+    "language": "hi"
+  },
+  {
+    "id": "qb177",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Pair of Linear Equations",
+    "question": "2x + y = 7 और x − y = 2 का हल क्या है?",
+    "options": [
+      "x=2, y=3",
+      "x=3, y=1",
+      "x=1, y=5",
+      "x=4, y=−1"
+    ],
+    "answer": 1,
+    "explanation": "दोनों समीकरण जोड़ने पर 3x=9, इसलिए x=3 और y=1।",
+    "language": "hi"
+  },
+  {
+    "id": "qb178",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Pair of Linear Equations",
+    "question": "दो रैखिक समीकरणों का कोई हल नहीं होता जब उनकी रेखाएँ कैसी हों?",
+    "options": [
+      "एक-दूसरे को काटें",
+      "संपाती हों",
+      "समांतर और अलग हों",
+      "लंबवत हों"
+    ],
+    "answer": 2,
+    "explanation": "अलग-अलग समांतर रेखाएँ कभी नहीं मिलतीं, इसलिए कोई हल नहीं होता।",
+    "language": "hi"
+  },
+  {
+    "id": "qb179",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Quadratic Equations",
+    "question": "x² − 7x + 12 = 0 के मूल कौन-से हैं?",
+    "options": [
+      "2 और 6",
+      "3 और 4",
+      "−3 और −4",
+      "1 और 12"
+    ],
+    "answer": 1,
+    "explanation": "x²−7x+12=(x−3)(x−4), इसलिए मूल 3 और 4 हैं।",
+    "language": "hi"
+  },
+  {
+    "id": "qb180",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Quadratic Equations",
+    "question": "द्विघात समीकरण ax²+bx+c=0 के विविक्तकर का सूत्र क्या है?",
+    "options": [
+      "b²−4ac",
+      "b²+4ac",
+      "a²−4bc",
+      "4ac−b"
+    ],
+    "answer": 0,
+    "explanation": "विविक्तकर D=b²−4ac होता है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb181",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Arithmetic Progressions",
+    "question": "AP 5, 9, 13, 17, ... का 10वाँ पद क्या है?",
+    "options": [
+      "37",
+      "39",
+      "41",
+      "45"
+    ],
+    "answer": 2,
+    "explanation": "a=5, d=4; a₁₀=5+9×4=41।",
+    "language": "hi"
+  },
+  {
+    "id": "qb182",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Arithmetic Progressions",
+    "question": "AP 3, 6, 9, ... के पहले 10 पदों का योग कितना है?",
+    "options": [
+      "150",
+      "155",
+      "165",
+      "180"
+    ],
+    "answer": 2,
+    "explanation": "S₁₀=10/2×(3+30)=165।",
+    "language": "hi"
+  },
+  {
+    "id": "qb183",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Triangles",
+    "question": "यदि दो त्रिभुजों के संगत कोण बराबर हों, तो वे किस प्रकार के होते हैं?",
+    "options": [
+      "सर्वांगसम हमेशा",
+      "समरूप",
+      "असमरूप",
+      "समकोण त्रिभुज हमेशा"
+    ],
+    "answer": 1,
+    "explanation": "AAA कसौटी से ऐसे त्रिभुज समरूप होते हैं।",
+    "language": "hi"
+  },
+  {
+    "id": "qb184",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Triangles",
+    "question": "समकोण त्रिभुज में कर्ण 13 cm और एक भुजा 5 cm है। दूसरी भुजा कितनी होगी?",
+    "options": [
+      "8 cm",
+      "10 cm",
+      "12 cm",
+      "14 cm"
+    ],
+    "answer": 2,
+    "explanation": "पाइथागोरस प्रमेय से दूसरी भुजा=√(13²−5²)=√144=12 cm।",
+    "language": "hi"
+  },
+  {
+    "id": "qb185",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Coordinate Geometry",
+    "question": "बिंदुओं (2, 3) और (2, 9) के बीच की दूरी कितनी है?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "x निर्देशांक समान हैं; दूरी y निर्देशांकों का अंतर 9−3=6 है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb186",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Coordinate Geometry",
+    "question": "बिंदु (−4, 6) किस चतुर्थांश में स्थित है?",
+    "options": [
+      "प्रथम",
+      "द्वितीय",
+      "तृतीय",
+      "चतुर्थ"
+    ],
+    "answer": 1,
+    "explanation": "x ऋणात्मक और y धनात्मक है, इसलिए बिंदु द्वितीय चतुर्थांश में है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb187",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Introduction to Trigonometry",
+    "question": "sin²θ + cos²θ का मान क्या होता है?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "tan θ"
+    ],
+    "answer": 1,
+    "explanation": "यह मूल त्रिकोणमितीय सर्वसमिका है: sin²θ+cos²θ=1।",
+    "language": "hi"
+  },
+  {
+    "id": "qb188",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Introduction to Trigonometry",
+    "question": "यदि tan θ = 3/4 और θ न्यून कोण है, तो sin θ कितना होगा?",
+    "options": [
+      "3/5",
+      "4/5",
+      "3/4",
+      "4/3"
+    ],
+    "answer": 0,
+    "explanation": "लंब:आधार=3:4, कर्ण=5; इसलिए sin θ=3/5।",
+    "language": "hi"
+  },
+  {
+    "id": "qb189",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Applications of Trigonometry",
+    "question": "किसी मीनार के शीर्ष का उन्नयन कोण 45° है और क्षैतिज दूरी 20 m है। मीनार की ऊँचाई कितनी है? (आँख की ऊँचाई नगण्य)",
+    "options": [
+      "10 m",
+      "20 m",
+      "20√3 m",
+      "40 m"
+    ],
+    "answer": 1,
+    "explanation": "tan45°=ऊँचाई/20=1, इसलिए ऊँचाई 20 m है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb190",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Circles",
+    "question": "वृत्त के बाहर स्थित किसी बिंदु से खींची गई दो स्पर्श रेखाओं की लंबाइयाँ कैसी होती हैं?",
+    "options": [
+      "असमान",
+      "बराबर",
+      "दोगुनी",
+      "शून्य"
+    ],
+    "answer": 1,
+    "explanation": "एक बाहरी बिंदु से वृत्त पर खींची गई स्पर्श रेखाएँ बराबर होती हैं।",
+    "language": "hi"
+  },
+  {
+    "id": "qb191",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Areas Related to Circles",
+    "question": "7 cm त्रिज्या वाले वृत्त का क्षेत्रफल कितना होगा? (π=22/7)",
+    "options": [
+      "44 cm²",
+      "144 cm²",
+      "154 cm²",
+      "308 cm²"
+    ],
+    "answer": 2,
+    "explanation": "क्षेत्रफल=πr²=22/7×7×7=154 cm²।",
+    "language": "hi"
+  },
+  {
+    "id": "qb192",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Surface Areas and Volumes",
+    "question": "4 cm भुजा वाले घन का आयतन कितना होगा?",
+    "options": [
+      "16 cm³",
+      "32 cm³",
+      "48 cm³",
+      "64 cm³"
+    ],
+    "answer": 3,
+    "explanation": "घन का आयतन=a³=4³=64 cm³।",
+    "language": "hi"
+  },
+  {
+    "id": "qb193",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Surface Areas and Volumes",
+    "question": "बेलन का आयतन किस सूत्र से मिलता है?",
+    "options": [
+      "πr²h",
+      "2πrh",
+      "πrl",
+      "4πr²"
+    ],
+    "answer": 0,
+    "explanation": "बेलन का आयतन=आधार का क्षेत्रफल×ऊँचाई=πr²h।",
+    "language": "hi"
+  },
+  {
+    "id": "qb194",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "question": "आँकड़ों 2, 4, 6, 8, 10 की माध्यिका क्या है?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": 2,
+    "explanation": "क्रमबद्ध पाँच आँकड़ों का बीच वाला मान 6 है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb195",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "question": "आँकड़ों 3, 5, 5, 7, 9 का बहुलक क्या है?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "answer": 1,
+    "explanation": "जो मान सबसे अधिक बार आता है, वह बहुलक है; यहाँ 5 दो बार आता है।",
+    "language": "hi"
+  },
+  {
+    "id": "qb196",
+    "board": "Bihar Board",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Probability",
+    "question": "एक पासा फेंकने पर सम संख्या आने की प्रायिकता क्या है?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "answer": 2,
+    "explanation": "सम संख्याएँ 2,4,6 हैं; अनुकूल परिणाम 3 और कुल 6, इसलिए 3/6=1/2।",
+    "language": "hi"
+  },
+  {
+    "id": "qb197",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Real Numbers",
+    "question": "The HCF of 96 and 404 is:",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "12"
+    ],
+    "answer": 1,
+    "explanation": "Using Euclid's algorithm, 404 = 4×96 + 20, 96 = 4×20 + 16, 20 = 1×16 + 4; hence HCF = 4.",
+    "language": "en"
+  },
+  {
+    "id": "qb198",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Real Numbers",
+    "question": "Which fraction has a terminating decimal expansion?",
+    "options": [
+      "7/30",
+      "13/40",
+      "11/21",
+      "5/27"
+    ],
+    "answer": 1,
+    "explanation": "A fraction in lowest terms terminates when its denominator has only prime factors 2 and/or 5. 40=2³×5.",
+    "language": "en"
+  },
+  {
+    "id": "qb199",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Polynomials",
+    "question": "If the zeroes of x² + kx + 12 are 3 and 4, what is k?",
+    "options": [
+      "−7",
+      "7",
+      "12",
+      "−12"
+    ],
+    "answer": 0,
+    "explanation": "The sum of zeroes is −k. Since 3+4=7, k=−7.",
+    "language": "en"
+  },
+  {
+    "id": "qb200",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Polynomials",
+    "question": "A quadratic polynomial whose zeroes are −2 and 5 is:",
+    "options": [
+      "x²−3x−10",
+      "x²+3x−10",
+      "x²−7x+10",
+      "x²+7x−10"
+    ],
+    "answer": 0,
+    "explanation": "The polynomial is (x+2)(x−5)=x²−3x−10.",
+    "language": "en"
+  },
+  {
+    "id": "qb201",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Pair of Linear Equations",
+    "question": "For what value of k do 3x+2y=5 and 6x+4y=k have infinitely many solutions?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": 1,
+    "explanation": "The second equation must be exactly twice the first, so k=10.",
+    "language": "en"
+  },
+  {
+    "id": "qb202",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Pair of Linear Equations",
+    "question": "The pair x+y=8 and x−y=2 has solution:",
+    "options": [
+      "x=3, y=5",
+      "x=5, y=3",
+      "x=4, y=4",
+      "x=6, y=2"
+    ],
+    "answer": 1,
+    "explanation": "Adding gives 2x=10, so x=5; then y=3.",
+    "language": "en"
+  },
+  {
+    "id": "qb203",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Quadratic Equations",
+    "question": "The discriminant of 2x²−4x+2=0 is:",
+    "options": [
+      "−4",
+      "0",
+      "4",
+      "8"
+    ],
+    "answer": 1,
+    "explanation": "D=b²−4ac=(−4)²−4×2×2=16−16=0.",
+    "language": "en"
+  },
+  {
+    "id": "qb204",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Quadratic Equations",
+    "question": "If the product of the roots of x²−6x+m=0 is 8, then m equals:",
+    "options": [
+      "−8",
+      "6",
+      "8",
+      "−6"
+    ],
+    "answer": 2,
+    "explanation": "For ax²+bx+c=0, product of roots=c/a. Here product=m, so m=8.",
+    "language": "en"
+  },
+  {
+    "id": "qb205",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Arithmetic Progressions",
+    "question": "The 15th term of the AP 7, 11, 15, ... is:",
+    "options": [
+      "59",
+      "61",
+      "63",
+      "67"
+    ],
+    "answer": 2,
+    "explanation": "a=7, d=4; a₁₅=7+14×4=63.",
+    "language": "en"
+  },
+  {
+    "id": "qb206",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Arithmetic Progressions",
+    "question": "How many terms are there in the AP 4, 9, 14, ..., 49?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": 2,
+    "explanation": "49=4+(n−1)5 gives n−1=9, so n=10.",
+    "language": "en"
+  },
+  {
+    "id": "qb207",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Triangles",
+    "question": "In a right triangle, if one acute angle is 35°, the other acute angle is:",
+    "options": [
+      "45°",
+      "55°",
+      "65°",
+      "75°"
+    ],
+    "answer": 1,
+    "explanation": "The two acute angles of a right triangle add up to 90°, so the other is 55°.",
+    "language": "en"
+  },
+  {
+    "id": "qb208",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Triangles",
+    "question": "If the corresponding sides of two similar triangles are in the ratio 2:3, their perimeters are in the ratio:",
+    "options": [
+      "2:3",
+      "4:9",
+      "8:27",
+      "3:2"
+    ],
+    "answer": 0,
+    "explanation": "For similar triangles, the ratio of perimeters equals the ratio of corresponding sides.",
+    "language": "en"
+  },
+  {
+    "id": "qb209",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Coordinate Geometry",
+    "question": "The point dividing the segment joining (1, 2) and (7, 8) internally in the ratio 1:2 is:",
+    "options": [
+      "(3, 4)",
+      "(4, 5)",
+      "(5, 6)",
+      "(2, 3)"
+    ],
+    "answer": 0,
+    "explanation": "By section formula, coordinates are ((1×7+2×1)/3, (1×8+2×2)/3)=(3,4).",
+    "language": "en"
+  },
+  {
+    "id": "qb210",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Coordinate Geometry",
+    "question": "The area of the triangle with vertices (0,0), (4,0) and (0,3) is:",
+    "options": [
+      "6 square units",
+      "7 square units",
+      "12 square units",
+      "24 square units"
+    ],
+    "answer": 0,
+    "explanation": "It is a right triangle with base 4 and height 3; area=½×4×3=6.",
+    "language": "en"
+  },
+  {
+    "id": "qb211",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Introduction to Trigonometry",
+    "question": "If cos θ = 12/13 for an acute angle, then sin θ is:",
+    "options": [
+      "5/13",
+      "12/5",
+      "13/5",
+      "1/13"
+    ],
+    "answer": 0,
+    "explanation": "Using sin²θ+cos²θ=1, sin θ=√(1−144/169)=5/13.",
+    "language": "en"
+  },
+  {
+    "id": "qb212",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Introduction to Trigonometry",
+    "question": "The value of sec²θ − tan²θ is:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "sin θ"
+    ],
+    "answer": 1,
+    "explanation": "The identity 1+tan²θ=sec²θ gives sec²θ−tan²θ=1.",
+    "language": "en"
+  },
+  {
+    "id": "qb213",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Applications of Trigonometry",
+    "question": "A 10 m ladder makes an angle of 60° with the ground. Its vertical reach is:",
+    "options": [
+      "5 m",
+      "5√3 m",
+      "10√3 m",
+      "20 m"
+    ],
+    "answer": 1,
+    "explanation": "Vertical reach=10 sin60°=10×√3/2=5√3 m.",
+    "language": "en"
+  },
+  {
+    "id": "qb214",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Circles",
+    "question": "A tangent to a circle at point P is perpendicular to:",
+    "options": [
+      "A chord through P",
+      "The radius through P",
+      "Every diameter",
+      "A parallel tangent"
+    ],
+    "answer": 1,
+    "explanation": "The tangent at any point of a circle is perpendicular to the radius through the point of contact.",
+    "language": "en"
+  },
+  {
+    "id": "qb215",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Areas Related to Circles",
+    "question": "The area of a 90° sector of a circle of radius 14 cm is (π=22/7):",
+    "options": [
+      "77 cm²",
+      "154 cm²",
+      "308 cm²",
+      "616 cm²"
+    ],
+    "answer": 1,
+    "explanation": "Sector area=(90/360)×π×14²=¼×616=154 cm².",
+    "language": "en"
+  },
+  {
+    "id": "qb216",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Surface Areas and Volumes",
+    "question": "The curved surface area of a cylinder of radius 3 cm and height 7 cm is:",
+    "options": [
+      "21π cm²",
+      "42π cm²",
+      "63π cm²",
+      "84π cm²"
+    ],
+    "answer": 1,
+    "explanation": "Curved surface area=2πrh=2×π×3×7=42π cm².",
+    "language": "en"
+  },
+  {
+    "id": "qb217",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Surface Areas and Volumes",
+    "question": "A cone has radius 3 cm and height 4 cm. Its volume is:",
+    "options": [
+      "9π cm³",
+      "12π cm³",
+      "16π cm³",
+      "36π cm³"
+    ],
+    "answer": 1,
+    "explanation": "Volume=⅓πr²h=⅓×π×9×4=12π cm³.",
+    "language": "en"
+  },
+  {
+    "id": "qb218",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "question": "The mean of the first five natural numbers is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "explanation": "Mean=(1+2+3+4+5)/5=15/5=3.",
+    "language": "en"
+  },
+  {
+    "id": "qb219",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Statistics",
+    "question": "For a grouped frequency distribution, the class mark of 20–30 is:",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "50"
+    ],
+    "answer": 1,
+    "explanation": "Class mark=(lower limit+upper limit)/2=(20+30)/2=25.",
+    "language": "en"
+  },
+  {
+    "id": "qb220",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Probability",
+    "question": "A bag contains 3 red and 2 blue balls. The probability of drawing a blue ball is:",
+    "options": [
+      "1/5",
+      "2/5",
+      "3/5",
+      "1/2"
+    ],
+    "answer": 1,
+    "explanation": "There are 2 blue balls out of 5 total balls, so probability=2/5.",
+    "language": "en"
+  },
+  {
+    "id": "qb221",
+    "board": "CBSE",
+    "class": "10",
+    "subject": "Maths",
+    "chapter": "Probability",
+    "question": "A number is chosen at random from 1 to 20. The probability that it is a multiple of 5 is:",
+    "options": [
+      "1/5",
+      "1/4",
+      "1/2",
+      "3/4"
+    ],
+    "answer": 0,
+    "explanation": "Multiples are 5, 10, 15 and 20: 4 favourable outcomes out of 20, so 1/5.",
+    "language": "en"
   }
 ];
