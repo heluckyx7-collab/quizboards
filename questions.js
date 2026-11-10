@@ -185,7 +185,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "जंग बनने पर नया पदार्थ बनता है, इसलिए यह रासायनिक परिवर्तन है।",
-    "language": "hi"
+    "language": "hi",
+    "scienceBranch": "Chemistry"
   },
   {
     "id": "qb012",
@@ -202,7 +203,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 0,
     "explanation": "अम्ल नीले लिटमस को लाल कर देता है।",
-    "language": "hi"
+    "language": "hi",
+    "scienceBranch": "Chemistry"
   },
   {
     "id": "qb013",
@@ -219,7 +221,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 3,
     "explanation": "पारा सामान्य कमरे के ताप पर द्रव धातु है।",
-    "language": "hi"
+    "language": "hi",
+    "scienceBranch": "Chemistry"
   },
   {
     "id": "qb014",
@@ -236,7 +239,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "छोटी आँत में पाचन पूरा होता है और पोषक तत्वों का अवशोषण होता है।",
-    "language": "hi"
+    "language": "hi",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb015",
@@ -253,7 +257,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 2,
     "explanation": "मस्तिष्क शरीर की गतिविधियों का नियंत्रण और समन्वय करता है।",
-    "language": "hi"
+    "language": "hi",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb016",
@@ -270,7 +275,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 0,
     "explanation": "मानव में निषेचन सामान्यतः अंडवाहिनी में होता है।",
-    "language": "hi"
+    "language": "hi",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb017",
@@ -287,7 +293,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 3,
     "explanation": "समतल दर्पण आभासी, सीधा और वस्तु के बराबर आकार का प्रतिबिंब बनाता है।",
-    "language": "hi"
+    "language": "hi",
+    "scienceBranch": "Physics"
   },
   {
     "id": "qb018",
@@ -304,7 +311,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "निकट दृष्टि दोष को अवतल लेंस से ठीक किया जाता है।",
-    "language": "hi"
+    "language": "hi",
+    "scienceBranch": "Physics"
   },
   {
     "id": "qb019",
@@ -321,7 +329,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 2,
     "explanation": "विद्युत धारा की SI इकाई एम्पियर है।",
-    "language": "hi"
+    "language": "hi",
+    "scienceBranch": "Physics"
   },
   {
     "id": "qb020",
@@ -338,7 +347,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 0,
     "explanation": "अधिकांश पारितंत्रों में ऊर्जा का मूल स्रोत सूर्य है।",
-    "language": "hi"
+    "language": "hi",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb021",
@@ -1035,7 +1045,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "Rusting forms a new substance called iron oxide, so it is a chemical change.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Chemistry"
   },
   {
     "id": "qb062",
@@ -1052,7 +1063,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 0,
     "explanation": "Acids turn blue litmus paper red.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Chemistry"
   },
   {
     "id": "qb063",
@@ -1069,7 +1081,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 3,
     "explanation": "Mercury is a metal that is liquid at ordinary room temperature.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Chemistry"
   },
   {
     "id": "qb064",
@@ -1086,7 +1099,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "Most digestion is completed in the small intestine, where nutrients are also absorbed.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb065",
@@ -1103,7 +1117,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 2,
     "explanation": "The brain controls and coordinates many activities of the body.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb066",
@@ -1120,7 +1135,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 0,
     "explanation": "In humans, fertilisation usually takes place in the oviduct.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb067",
@@ -1137,7 +1153,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 3,
     "explanation": "A plane mirror forms a virtual, erect image of the same size as the object.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Physics"
   },
   {
     "id": "qb068",
@@ -1154,7 +1171,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "A concave lens is used to correct myopia.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Physics"
   },
   {
     "id": "qb069",
@@ -1171,7 +1189,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 2,
     "explanation": "The SI unit of electric current is the ampere.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Physics"
   },
   {
     "id": "qb070",
@@ -1188,7 +1207,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 0,
     "explanation": "Sunlight is the primary energy source for most ecosystems.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb071",
@@ -1715,7 +1735,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "The small intestine has villi that absorb most digested nutrients into the blood.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb102",
@@ -1732,7 +1753,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 2,
     "explanation": "Many metals react with dilute acids to form a salt and release hydrogen gas.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Chemistry"
   },
   {
     "id": "qb103",
@@ -1749,7 +1771,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 2,
     "explanation": "Electrical resistance is measured in ohms, represented by the symbol Ω.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Physics"
   },
   {
     "id": "qb104",
@@ -2072,7 +2095,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "Salivary amylase starts breaking starch into simpler sugars in the mouth.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb123",
@@ -2089,7 +2113,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "Pulmonary veins carry oxygen-rich blood from the lungs to the left atrium.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb124",
@@ -2106,7 +2131,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "The cerebellum coordinates muscular activity and helps maintain balance and posture.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb125",
@@ -2123,7 +2149,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "Yeast commonly reproduces asexually by forming a small outgrowth called a bud.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb126",
@@ -2140,7 +2167,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "A normal human body cell has 23 pairs, or 46 chromosomes.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb127",
@@ -2157,7 +2185,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "A plane mirror forms a virtual, erect image of the same size as the object.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Physics"
   },
   {
     "id": "qb128",
@@ -2174,7 +2203,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 2,
     "explanation": "Using Ohm’s law, V = IR = 2 × 5 = 10 V.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Physics"
   },
   {
     "id": "qb129",
@@ -2191,7 +2221,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 0,
     "explanation": "An electric motor uses the magnetic effect of current to produce mechanical motion.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Physics"
   },
   {
     "id": "qb130",
@@ -2208,7 +2239,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 2,
     "explanation": "Bacteria and fungi break down dead organic matter and recycle nutrients.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb131",
@@ -2225,7 +2257,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "An acid turns blue litmus paper red.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Chemistry"
   },
   {
     "id": "qb132",
@@ -4775,7 +4808,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "The nucleus contains genetic material and controls cell activities.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb282",
@@ -4792,7 +4826,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "Humans use oxygen during cellular respiration.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb283",
@@ -4809,7 +4844,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 2,
     "explanation": "The symbol Na comes from the Latin name natrium.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Chemistry"
   },
   {
     "id": "qb284",
@@ -4826,7 +4862,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 2,
     "explanation": "The kidneys filter wastes and extra water from the blood.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb285",
@@ -4843,7 +4880,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "A plane mirror forms a virtual, erect image.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Physics"
   },
   {
     "id": "qb286",
@@ -4860,7 +4898,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 0,
     "explanation": "Carbohydrates are a major source of energy for the body.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Biology"
   },
   {
     "id": "qb287",
@@ -4877,7 +4916,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 2,
     "explanation": "Earth's gravitational force attracts objects toward its centre.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Physics"
   },
   {
     "id": "qb288",
@@ -4894,7 +4934,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "An ammeter measures electric current.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Physics"
   },
   {
     "id": "qb289",
@@ -4911,7 +4952,8 @@ window.QUIZ_QUESTIONS = [
     ],
     "answer": 1,
     "explanation": "Condensation is the change from gas to liquid.",
-    "language": "en"
+    "language": "en",
+    "scienceBranch": "Physics"
   },
   {
     "id": "qb290",
