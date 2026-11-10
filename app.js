@@ -25,9 +25,11 @@ document.addEventListener("DOMContentLoaded", () => {
     const language = $("language").value;
     const cls = $("class").value;
     const subject = $("subject").value;
+    const scienceBranch = $("science-branch").value;
 
     let pool = bank.filter(q =>
       (subject === "All" || q.subject === subject) &&
+      (subject !== "Science" || scienceBranch === "All" || q.scienceBranch === scienceBranch) &&
       (q.language || "hi") === language &&
       (board === "All" || q.board === board || q.board === "All India") &&
       (cls === "All" || q.class === cls)
@@ -130,6 +132,9 @@ document.addEventListener("DOMContentLoaded", () => {
     $("finish").disabled = true;
     $("result").scrollIntoView({behavior:"smooth",block:"center"});
   }
+  $("subject").addEventListener("change", () => {
+    $("science-branch-label").hidden = $("subject").value !== "Science";
+  });
   $("start").addEventListener("click", startQuiz);
   $("finish").addEventListener("click", finishQuiz);
   if (bank.length < SIZE) {
